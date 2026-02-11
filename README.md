@@ -28,7 +28,7 @@ Each dataset contains three balanced classes:
 The generation pipeline is built on the **Model Context Protocol (MCP)** framework, which enables structured, reproducible prompt engineering for each linguistic variety. Each dataset type is handled by a dedicated MCP tool with domain-specific instructions and context-aware generation rules.
 
 ```
-User Request → MCP Server (main.py) → Claude (Anthropic)
+User Request → MCP Server (ai-data-generator.py) → Claude (Anthropic)
                                            ↓
                                    Synthetic CSV Data
                                            ↓
@@ -42,7 +42,7 @@ User Request → MCP Server (main.py) → Claude (Anthropic)
 
 | File | Description |
 |------|-------------|
-| `main.py` | MCP server with dataset generation tool definitions and prompt templates |
+| `ai-data-generator.py` | MCP server with dataset generation tool definitions and prompt templates |
 | `bangla_sms.csv` | Generated Bengali SMS dataset |
 | `english_sms.csv` | Generated English SMS dataset |
 | `banglish_sms.csv` | Generated Banglish SMS dataset |
@@ -66,7 +66,7 @@ git clone <repository-url>
 cd ai-dataset-generator
 
 # Run the MCP server
-python main.py
+python ai-data-generator.py
 ```
 
 ## Usage
@@ -79,7 +79,7 @@ Add the server configuration to your Claude Desktop or Claude Code MCP settings:
   "mcpServers": {
     "ai-dataset-generator": {
       "command": "python",
-      "args": ["/path/to/main.py"]
+      "args": ["/path/to/ai-data-generator.py"]
     }
   }
 }
