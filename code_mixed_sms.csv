@@ -1,0 +1,545 @@
+id,label,text
+1,smish,"আপনার BRAC Bank account এ unusual transaction detect হয়েছে। যদি আপনি না করেছেন, তাহলে এখনই লগিন করে verify করুন http://brac-securebd.com. Transaction ID: 987654"
+2,smish,URGENT: আপনার bKash account temporary block হয়েছে। Reactivate করতে click করুন http://bkashtk-verify.com এবং OTP code 4521 submit করুন।
+3,smish,Congratulations! আপনি ৫ লাখ TK lottery prize জিতেছেন। Claim করতে এখনই visit করুন http://bdlottery.win. আপনার registration code 8742 ব্যবহার করুন।
+4,smish,Alert! আপনার Dutch-Bangla Bank card unusual activity detect হয়েছে। Verify করতে এখনই click করুন http://dbbl-check.net before account block হবে।
+5,smish,"সতর্কতা! আপনার Nagad account এ unauthorized login attempt হয়েছে। যদি এটা আপনার কাজ না হয়, reset করুন password এখনই http://nagadverify.com"
+6,smish,Warning! Robi number ০১৮XXXXXX এ suspicious call detect হয়েছে। Confirm করতে এখনই visit করুন http://robi-alerts.com এবং reference code লিখুন 3256
+7,smish,আপনার City Bank card expire হয়েছে। Update করতে click করুন http://citysecurebd.com. কোনো delay হলে আপনার account block হতে পারে।
+8,smish,সতর্কতা! আপনার Bank Asia account login attempt failed হয়েছে। Reset করতে এখনই visit করুন http://bankasia-reset.com এবং OTP verify করুন।
+9,smish,Congratulations! Dutch-Bangla lottery prize ৩ লাখ TK। Claim করতে visit করুন http://dbbl-lottery.com. Claim code 5721
+10,smish,Warning! UCB account unauthorized transaction detect হয়েছে। Verify করতে এখনই visit করুন http://ucb-securebd.com এবং ৪ digit code 8912 submit করুন।
+11,promo,"Grameenphone special offer: ৫০০ TK recharge করুন এবং ১ GB extra data পান। Offer valid for ২৪ hours only, তাই আজই recharge করুন!"
+12,promo,"New summer collection launch: সব clothes এ ২০% discount। Limited stock available, so online order করুন এখনই এবং free delivery পান।"
+13,promo,"Robi ৫০০ TK recharge করুন এবং ১০০ TK extra bonus পান। Offer valid until ১০ Sep 2025, hurry up, first ৫০০ users only!"
+14,promo,BRAC Bank credit card holders জন্য special cashback ১০% on electronics items। Apply করুন এখনই এবং instant reward points পান।
+15,promo,"Nagad mobile recharge করুন এবং ১০% extra credit পান। Offer valid for first ৫০০ users only, recharge now using app or USSD code।"
+16,promo,TeleTalk নতুন SIM plan: Unlimited call + ২ GB internet মাত্র ২৯৯ TK। Activate করুন এখনই before offer ends।
+17,promo,DBBL online banking ব্যবহার করে bill pay করুন এবং exclusive reward points পান। Register করুন এখনই and enjoy benefits।
+18,promo,City Bank app payment করুন এবং instant cashback ৫% পান। Download করুন app এখনই এবং enjoy secure online transactions।
+19,normal,কালকে class এ আসবা তো? আমরা বাসা থেকে একসাথে যাই। After class coffee খেতে যেতে পারি।
+20,normal,আজকে dinner এর জন্য কি plan? তুমি কিছু cook করতে চাও নাকি বাইরে order করি? Let me know।
+21,normal,"Hi Rafiq, কালকের meeting time confirm করেছো কি? আমি planning করতে চাই, so kindly reply as soon as possible।"
+22,normal,"আজ Sunday, chill করার ইচ্ছে আছে। Movie দেখতে যাবো কি? Weather অনেক সুন্দর।"
+23,normal,"মা, market থেকে কিছু vegetables আনতে হবে। I will pay cash, আর তুমি কি fruits ও আনবে?"
+24,normal,"বন্ধু, Sunday picnic এর জন্য plan ঠিক করেছো কি? আমরা early morning বের হবো, Let’s coordinate।"
+25,normal,"Hi Shumi, তুমি কেমন আছো? আজকে coffee খেতে আসো না? আমাদের অনেক কথা catch up করতে হবে।"
+26,normal,কালকের training session cancel হয়েছে। নতুন date পরে জানানো হবে। Please inform all teammates।
+27,normal,আজ bike ride করতে যাই? Weather খুব সুন্দর। তুমি join করছো কি? Let’s meet at usual spot।
+28,normal,"মামা, Eid gift জন্য কিছু buy করতে হবে। Shall we go together to Bashundhara Shopping Mall? Enjoy shopping।"
+29,smish,আপনার Dutch-Bangla ATM card unusual transaction detect করেছে। Verify করতে এখনই click করুন http://dbbl-alerts.com and provide your ৪ digit OTP।
+30,smish,Alert! আপনার Nagad account unauthorized login detect হয়েছে। Reset password এখনই: http://nagad-securebd.com এবং login attempt verify করুন।
+31,smish,Congratulations! আপনি ২ লাখ TK lucky draw prize জিতেছেন। Claim করতে visit করুন http://bd-lottery.net with code 5721
+32,smish,URGENT: আপনার BRAC Bank account block হতে চলেছে। Verify করতে এখনই click করুন http://bracsecurelogin.com before any fund loss।
+33,smish,আপনার UCB card unusual purchase detect হয়েছে। Confirm করতে visit করুন http://ucb-alertbd.com এখনই and avoid account block।
+34,smish,আপনার City Bank OTP expire হয়েছে। Get new OTP at http://citybank-verify.com before any transaction fail।
+35,smish,সতর্কতা! আপনার Bank Asia online login failed হয়েছে। Reset now: http://bankasia-alert.com এবং secure password set করুন।
+36,promo,"GP new offer: Recharge ২০০ TK এবং ১ GB extra data পান। Limited time, তাই আজই recharge করুন।"
+37,promo,Summer sale: সব shirts এখন ৩০% discount। Online order করুন এখনই এবং free delivery পান।
+38,promo,"Robi ১০০ TK recharge করলে ২০ TK bonus পান। Offer limited to first ১০০০ users, hurry up!"
+39,promo,BRAC Bank credit card holders ১৫% discount পান grocery shopping এ। Apply today এবং instant cashback পান।
+40,promo,"Nagad recharge করুন ২০০ TK এ এবং ২০ TK extra credit পান। Hurry, offer valid today only।"
+41,promo,TeleTalk unlimited call + ১ GB internet মাত্র ১৯৯ TK। Activate করুন আজই before offer expires।
+42,promo,DBBL online payment এ reward points পান। Register now এবং future bill pay এ benefit পান।
+43,promo,City Bank app ব্যবহার করে pay করুন এবং instant ৫% cashback পান। Download now এবং enjoy seamless payment।
+44,normal,"Hi Arif, কালকে football খেলা হবে। তুমি আসছো কি? আমরা early morning মিলব usual place এ।"
+45,normal,আজকে party করতে যাচ্ছি। তুমি join করছো কি? Let's enjoy and plan together।
+46,normal,"মা, market থেকে কিছু fruits আনো। আমি cash দিবো। তুমি কি vegetables ও আনবে? Let's coordinate।"
+47,normal,"বন্ধু, Sunday bike ride plan confirm করেছো কি? Weather perfect, so আমরা early বের হব।"
+48,normal,"Hi Rumi, coffee খেতে আসছো আজ? Weather খুব nice, এবং অনেক gossip আছে।"
+49,normal,কালকের workshop cancel হয়েছে। নতুন date পরে জানানো হবে। All participants কে inform করতে হবে।
+50,normal,আজ cinema যেতে ইচ্ছে আছে। তুমি আসছো কি? Let’s buy tickets online।
+51,normal,"মামা, Eid gift buy করতে হবে। Shall we go together to Bashundhara Shopping Mall? Enjoy shopping time।"
+52,normal,আজ lunch কোথায় খাওয়া যায়? Any idea? আমরা দুইটা restaurant check করতে পারি।
+53,normal,"Hi Shakib, তুমি কেমন আছো? Let's meet after class এবং নতুন project discuss করি।"
+54,smish,Congratulations! ৩ লাখ TK lottery prize জিতেছেন। Claim at http://bdlottery.net with code 9863
+55,smish,আপনার Dutch-Bangla Bank account unusual activity detect হয়েছে। Verify at http://dbbl-securelogin.com now
+56,promo,New summer collection: ২০% discount on all items। Online shop করুন এবং free delivery পান
+57,promo,"Robi recharge ২০০ TK get ৫০ TK bonus। First ১০০০ users only, hurry up, claim now"
+58,normal,কালকে class এ আসবে? আমরা বাসা থেকে একসাথে যাই। After class coffee খেতে যেতে পারি
+59,normal,আজকে dinner এর জন্য কি plan? তুমি কিছু cook করতে চাও নাকি বাইরে order করি? Let me know
+60,normal,"Hi Rafiq, কালকের meeting time confirm করেছো কি? Planning করতে চাই, so kindly reply asap"
+61,normal,আজ Sunday chill করার ইচ্ছে আছে। Movie দেখতে যাবো কি? Weather অনেক সুন্দর
+62,normal,"মা, market থেকে কিছু vegetables আনতে হবে। I will pay cash, তুমি কি fruits ও আনবে?"
+63,normal,"বন্ধু, Sunday picnic এর জন্য plan ঠিক করেছো কি? আমরা early morning বের হব, Let’s coordinate"
+64,normal,"Hi Shumi, তুমি কেমন আছো? আজকে coffee খেতে আসো না? অনেক কিছু catch up করতে হবে"
+65,normal,কালকের training session cancel হয়েছে। নতুন date পরে জানানো হবে। Please inform all teammates
+66,normal,আজ bike ride করতে যাই? Weather খুব সুন্দর। তুমি join করছো কি? Let’s meet at usual spot
+67,normal,"মামা, Eid gift জন্য কিছু buy করতে হবে। Shall we go together to Bashundhara Shopping Mall? Enjoy shopping"
+68,smish,"URGENT: আপনার BRAC Bank account এ ২০,০০০ TK unauthorized withdrawal detect হয়েছে। Verify করতে click করুন http://bracsecurebd.com এবং OTP 4532 submit করুন।"
+69,smish,Alert! আপনার bKash account suspicious login attempt detect হয়েছে। Reset password এখনই: http://bkashtk-verify.com before fraud occurs
+70,smish,Congratulations! আপনার Dutch-Bangla lottery prize ৪ লাখ TK। Claim করতে visit করুন http://dbbl-lottery.com with code 7621 before 10 Sep
+71,smish,Warning! আপনার Nagad account unauthorized fund transfer detect হয়েছে। Secure করতে click করুন http://nagadsecurebd.com and verify now
+72,smish,সতর্কতা! Robi number ০১৯XXXXXX এ suspicious call detect হয়েছে। Check now at http://robi-alerts.com and reference code 3281 submit করুন
+73,smish,আপনার City Bank card expired হয়েছে। Update করতে click করুন http://citysecurebd.com before any transaction fail occurs
+74,smish,আপনার bKash account temporary block হয়েছে। Reactivate করতে এখনই visit করুন http://bkashtk-secure.com and submit OTP 4529
+75,promo,"Grameenphone offer: Recharge ৫০০ TK এবং ২ GB extra data পান। Limited time offer, তাই আজই recharge করুন to enjoy full benefit"
+76,promo,New arrival: সব summer clothes এখন ২৫% discount। Shop online বা nearest outlet এ visit করুন এবং free delivery পান
+77,promo,"Robi ৫০০ TK recharge করে ১২০ TK bonus পান। Offer valid until ১৫ Sep, hurry up, first ৫০০ users only"
+78,promo,BRAC Bank credit card holders জন্য ১৫% cashback on electronics। Apply now এবং instant reward points পান
+79,promo,"Nagad app recharge ২০০ TK এবং ২০ TK extra credit পান। Limited offer, recharge today to avoid missing bonus"
+80,promo,DBBL online banking payment করুন এবং exclusive reward points পান। Register now এবং future bill pay এ benefit enjoy করুন
+81,promo,"New restaurant launch offer: Buy ১ get ১ free on all pizzas। Only this weekend, তাই আজই visit করুন এবং enjoy করুন taste"
+82,promo,City Bank app payment করুন এবং instant cashback ৭% পান। Download now এবং enjoy secure online transactions
+83,normal,কালকে class এ আসবা তো? আমরা বাসা থেকে একসাথে যাই। After class coffee খেতে যেতে পারি এবং একটু chat করি
+84,normal,আজকে dinner এর জন্য কি plan? তুমি কিছু cook করতে চাও নাকি বাইরে order করি? Let me know before ৭ pm
+85,normal,"Hi Rafiq, কালকের meeting time confirm করেছো কি? আমি planning করতে চাই, so kindly reply as soon as possible"
+86,normal,"আজ Sunday, chill করার ইচ্ছে আছে। Movie দেখতে যাবো কি? Weather অনেক সুন্দর এবং mood perfect"
+87,normal,"মা, market থেকে কিছু vegetables আনতে হবে। I will pay cash, তুমি কি fruits ও আনবে? Let's coordinate"
+88,normal,"বন্ধু, Sunday picnic এর জন্য plan ঠিক করেছো কি? আমরা early morning বের হব, Let’s discuss route এবং food arrangement"
+89,normal,"Hi Shumi, তুমি কেমন আছো? আজকে coffee খেতে আসো না? অনেক কিছু catch up করতে হবে, তাই time fix করি"
+90,normal,কালকের training session cancel হয়েছে। নতুন date পরে জানানো হবে। Please inform all teammates এবং reschedule করুন
+91,normal,আজ bike ride করতে যাই? Weather খুব সুন্দর। তুমি join করছো কি? Let’s meet at usual spot around ৭ am
+92,normal,"মামা, Eid gift জন্য কিছু buy করতে হবে। Shall we go together to Bashundhara Shopping Mall? Enjoy shopping and choose gifts wisely"
+93,smish,আপনার Dutch-Bangla ATM card unusual transaction detect করেছে। Verify করতে এখনই click করুন http://dbbl-alerts.com and provide OTP 4512
+94,smish,Alert! আপনার Nagad account unauthorized login detect হয়েছে। Reset password এখনই: http://nagad-securebd.com before account block
+95,smish,Congratulations! আপনি ৩ লাখ TK lucky draw prize জিতেছেন। Claim করতে visit করুন http://bd-lottery.net with code 9861
+96,smish,URGENT: আপনার BRAC Bank account block হতে চলেছে। Verify করতে এখনই click করুন http://bracsecurelogin.com before any fund loss
+97,smish,আপনার UCB card unusual purchase detect হয়েছে। Confirm করতে visit করুন http://ucb-alertbd.com এখনই এবং avoid fraud
+98,smish,সতর্কতা! Bank Asia online login failed হয়েছে। Reset now: http://bankasia-alert.com এবং secure password set করুন immediately
+99,promo,"Robi recharge ২০০ TK get ৫০ TK bonus। First ১০০০ users only, hurry up, claim today"
+100,promo,"New restaurant offer: Buy ১ get ১ free pizza। Only for weekend, তাই আজই visit করুন"
+101,normal,কালকে class এ আসবে? আমরা বাসা থেকে একসাথে যাই। After class coffee খেতে যেতে পারি এবং discuss some notes
+102,normal,আজকে dinner এর জন্য কি plan? তুমি cook করতে চাও নাকি বাইরে order করি? Let me know before ৭ pm
+103,normal,আজ Sunday chill করার ইচ্ছে আছে। Movie দেখতে যাবো কি? Weather perfect এবং mood great
+104,normal,"বন্ধু, Sunday picnic এর জন্য plan ঠিক করেছো কি? আমরা early morning বের হব, Let’s discuss route and food plan"
+105,normal,"Hi Shumi, তুমি কেমন আছো? আজকে coffee খেতে আসো না? অনেক কিছু catch up করতে হবে, time fix করি"
+106,normal,কালকের training session cancel হয়েছে। নতুন date পরে জানানো হবে। Please inform all teammates এবং reschedule করা দরকার
+107,smish,আপনার Dutch-Bangla ATM card unusual transaction detect করেছে। Verify করতে এখনই click করুন http://dbbl-alerts.com এবং provide OTP 4523
+108,smish,Congratulations! আপনি ৩ লাখ TK lucky draw prize জিতেছেন। Claim করতে visit করুন http://bd-lottery.net with code 9867
+109,smish,আপনার UCB card unusual purchase detect হয়েছে। Confirm করতে visit করুন http://ucb-alertbd.com এবং avoid fraud
+110,smish,"আপনার Agrani Bank account এ unusual activity detect হয়েছে। যদি না করেন, তাহলে এখনই লগিন করুন http://agrani-securebd.com এবং reference code 9931 submit করুন।"
+111,smish,"Alert! আপনার Nagad app থেকে ১৫,০০০ TK unauthorized debit detect হয়েছে। Protect করতে visit করুন http://nagadprotect.com এবং OTP 7612 submit করুন।"
+112,smish,Warning! আপনার DBBL account suspicious login detect হয়েছে। Immediate action নিতে click করুন http://dbblverify.com এবং security questions complete করুন।
+113,smish,URGENT: আপনার bKash account temporary block হয়েছে। Reactivate করতে এখনই visit করুন http://bkashtk-safe.com before ২৪ hours expire।
+114,smish,আপনার UCB card unusual transaction detect হয়েছে। Verify করতে visit করুন http://ucbverify.com এবং submit করুন OTP 6392
+115,smish,সতর্কতা! Robi number ০১৮XXXXXX unauthorized call detect হয়েছে। Check now at http://robi-securealert.com এবং reference 4829 submit করুন
+116,smish,আপনার City Bank ATM card suspicious withdrawal detect হয়েছে। Protect করতে click করুন http://citybank-secure.com এবং validate OTP 2741
+117,smish,ALERT! Bank Asia online payment fail হয়েছে। Verify now: http://bankasia-securebd.com এবং correct করুন recent transaction
+118,smish,Congratulations! Dutch-Bangla lucky draw prize ৬ লাখ TK। Claim করতে visit করুন http://dbbl-luckydraw.com with code 8154 before ২০ Sep
+119,smish,Warning! আপনার Nagad account suspicious fund transfer detect হয়েছে। Confirm now: http://nagad-alertbd.com এবং verify করুন account immediately
+120,promo,"GP new offer: Recharge ২০০ TK এবং ২ GB extra data পান। Offer valid ২৪ hours, তাই recharge করুন আজই এবং enjoy data"
+121,promo,"Summer sale: সব shirts, trousers, এবং accessories ২৫% discount। Online বা physical store থেকে buy করুন এবং free delivery পান"
+122,promo,"Robi ২০০ TK recharge করুন এবং ৫০ TK extra bonus পান। Offer limited, first ১০০০ users only, hurry up and claim today"
+123,promo,BRAC Bank card holders ২০% cashback পান electronics shopping এ। Apply now এবং instant reward points enjoy করুন
+124,promo,"Nagad app recharge ৫০০ TK এবং ৫০ TK extra credit পান। Limited offer, recharge today to secure bonus"
+125,promo,DBBL online banking payment করুন এবং exclusive loyalty points পান। Register now এবং future bills এ redeem করুন
+126,promo,City Bank app payment করুন এবং instant cashback ১০% পান। Download now এবং enjoy hassle-free secure transactions
+127,normal,"Hi Arif, কালকে library এ study session হবে। তুমি আসছো কি? Let’s meet around ৫ pm and discuss notes"
+128,normal,আজকে dinner জন্য কি plan? তুমি cook করতে চাও নাকি বাইরে order করি? Let me know before ৭ pm and coordinate
+129,normal,"Hi Rafiq, কালকের meeting time confirm করেছো কি? আমি prepare করতে চাই, so kindly reply as soon as possible"
+130,normal,"আজ Sunday, chill করার ইচ্ছে আছে। Coffee shop এ যাই কি? Weather sunny এবং mood perfect"
+131,normal,"মা, market থেকে vegetables এবং fruits আনো। আমি cash দিবো, এবং তুমি কি snacks ও আনবে? Let's coordinate"
+132,normal,"বন্ধু, Sunday picnic plan ঠিক করেছো কি? আমরা early morning বের হবো, Let’s discuss route এবং food arrangement"
+133,normal,"Hi Shumi, তুমি কেমন আছো? আজকে coffee খেতে আসো না? অনেক gossip share করতে হবে, তাই time fix করি"
+134,normal,কালকের training session reschedule হয়েছে। নতুন date পরে 알려বো। Please inform all teammates এবং adjust করুন accordingly
+135,normal,আজ bike ride করতে যাই? Weather অনেক সুন্দর। তুমি join করছো কি? Let’s meet at usual spot around ৬:৩০ am
+136,normal,"মামা, Eid gift এর জন্য কিছু buy করতে হবে। Shall we go together to Jamuna Future Park? Enjoy shopping এবং choose gifts wisely"
+137,smish,আপনার Agrani Bank card unusual transaction detect হয়েছে। Protect করতে visit করুন http://agrani-securebd.com এবং submit OTP 7521
+138,smish,Alert! আপনার bKash account unauthorized fund transfer detect হয়েছে। Secure করতে click করুন http://bkashtk-safe.com এবং OTP 8932 submit করুন
+139,smish,Warning! DBBL online banking এ suspicious login detect হয়েছে। Verify করতে visit করুন http://dbblverify.com এবং complete করুন security check
+140,smish,URGENT: আপনার Nagad account temporary block হয়েছে। Reactivate করতে এখনই click করুন http://nagad-alertbd.com before ২৪ hours expire
+141,smish,আপনার UCB card unusual purchase detect হয়েছে। Confirm করতে visit করুন http://ucbverify.com এবং OTP 5923 submit করুন
+142,smish,সতর্কতা! Robi number ০১৭XXXXXX unauthorized call detect হয়েছে। Check now at http://robi-securealert.com এবং reference 6732 submit করুন
+143,smish,City Bank ATM card suspicious withdrawal detect হয়েছে। Protect করতে visit করুন http://citybank-secure.com এবং validate OTP 3841
+144,smish,Congratulations! Dutch-Bangla lucky draw prize ৫ লাখ TK। Claim করতে visit করুন http://dbbl-luckydraw.com with code 9254 before ২৫ Sep
+145,smish,Warning! আপনার Nagad account suspicious fund transfer detect হয়েছে। Confirm now: http://nagad-alertbd.com এবং secure করুন account immediately
+146,promo,"GP offer: Recharge ৩০০ TK এবং ৩ GB extra data পান। Limited time, recharge today এবং enjoy full benefit"
+147,promo,"Summer collection: সব t-shirts, jeans, এবং shoes ২০% discount। Shop online অথবা nearest store visit করুন"
+148,promo,"Robi recharge ৫০০ TK এবং ১০০ TK bonus পান। Offer valid first ১০০০ users only, hurry up and claim today"
+149,promo,"Nagad app recharge ২০০ TK এবং ২৫ TK extra credit পান। Limited offer, recharge today to secure bonus"
+150,promo,DBBL online bill pay করুন এবং loyalty points পান। Register now এবং future bills এ redeem করুন
+151,promo,City Bank app payment করুন এবং instant cashback ১২% পান। Download now এবং enjoy hassle-free secure transactions
+152,normal,"Hi Arif, library study session কাল হবে। তুমি join করছো কি? Let’s meet around ৫ pm এবং notes share করি"
+153,normal,আজ dinner জন্য কি plan? তুমি cook করতে চাও নাকি বাইরে order করি? Let me know before ৭ pm
+154,normal,"Hi Rafiq, meeting time কাল confirm করেছো কি? আমি ready করতে চাই, so kindly reply as soon as possible"
+155,normal,"মা, market থেকে vegetables এবং fruits আনো। আমি cash দিবো, তুমি কি snacks ও আনবে? Let's coordinate"
+156,normal,"বন্ধু, picnic plan ঠিক করেছো কি? Early morning বের হবো, Let’s discuss route এবং food arrangement"
+157,normal,"Hi Shumi, coffee খেতে আসো আজ? অনেক gossip share করতে হবে, time fix করি"
+158,normal,Training session reschedule হয়েছে। নতুন date পরে 알려বো। Please inform all teammates এবং adjust করুন accordingly
+159,normal,আজ bike ride করতে যাই? Weather অনেক সুন্দর। তুমি join করছো কি? Let’s meet at usual spot ৬:৩০ am
+160,normal,"মামা, Eid gift জন্য কিছু buy করতে হবে। Shall we go together to Jamuna Future Park? Enjoy shopping এবং choose gifts wisely"
+161,smish,আপনার EXIM Bank account এ recent login from unknown device detect হয়েছে। Verify করতে visit করুন http://eximbank-securebd.com এবং provide OTP 9482।
+162,smish,"URGENT: আপনার Nagad account এ ২০,০০০ TK unauthorized debit detect হয়েছে। Secure করতে click করুন http://nagad-protect.com এবং submit code 6721"
+163,smish,Warning! আপনার bKash account unusual transaction detect হয়েছে। Confirm করতে এখনই visit করুন http://bkashtk-verify.com before any fund loss occurs
+164,smish,Alert! আপনার UCB card unusual purchase detect হয়েছে। Protect করতে click করুন http://ucbsecurebd.com এবং OTP 3847 submit করুন
+165,smish,আপনার City Bank ATM suspicious withdrawal detect হয়েছে। Visit করুন http://citybank-alert.com এবং validate code 5932
+166,smish,সতর্কতা! Robi number ০১৯XXXXXX unusual call detect হয়েছে। Check now at http://robi-securebd.com এবং reference 7824 submit করুন
+167,smish,আপনার Dutch-Bangla Bank account এ unknown login detect হয়েছে। Verify করতে এখনই visit করুন http://dbblsecure.net and provide OTP 4631
+168,smish,Congratulations! Dutch-Bangla lucky draw prize ৭ লাখ TK। Claim করতে visit করুন http://dbbl-luckydraw.com with code 9184 before ৩০ Sep
+169,promo,"GP new recharge offer: ৫০০ TK এবং ৩ GB extra data। Limited time offer, recharge করুন আজই এবং enjoy full benefits"
+170,promo,"Summer festival sale: সব clothes, shoes এবং accessories ৩০% discount। Shop online অথবা nearest store visit করুন"
+171,promo,"Robi recharge ২০০ TK এবং ৬০ TK bonus। Offer valid first ১০০০ users only, hurry up and claim today"
+172,promo,City Bank app pay করুন এবং instant cashback ১৫% পান। Download now এবং enjoy hassle-free secure transactions
+173,normal,"Hi Arif, কালকে library study session হবে। তুমি আসছো কি? Let’s meet around ৫ pm and discuss notes together"
+174,normal,আজকে dinner এর জন্য কি plan? তুমি cook করতে চাও নাকি বাইরে order করি? Let me know before ৮ pm
+175,normal,"Hi Rafiq, কালকের meeting time confirm করেছো কি? আমি prepare করতে চাই, so kindly reply asap"
+176,normal,"বন্ধু, picnic plan ঠিক করেছো কি? আমরা early morning বের হবো, Let’s discuss route এবং food arrangement"
+177,smish,আপনার EXIM Bank card unusual transaction detect হয়েছে। Protect করতে visit করুন http://eximbank-securebd.com এবং OTP 7932 submit করুন
+178,smish,Alert! আপনার bKash account unauthorized fund transfer detect হয়েছে। Secure করতে click করুন http://bkashtk-safe.com এবং OTP 6215 submit করুন
+179,smish,Warning! DBBL online banking এ suspicious login detect হয়েছে। Verify করতে visit করুন http://dbblsecurelogin.com এবং complete security check
+180,smish,URGENT: Nagad account temporary block হয়েছে। Reactivate করতে এখনই click করুন http://nagad-alertbd.com before ২৪ hours expire
+181,smish,আপনার UCB card unusual purchase detect হয়েছে। Confirm করতে visit করুন http://ucbverify.com এবং OTP 5843 submit করুন
+182,smish,সতর্কতা! Robi number ০১৮XXXXXX unauthorized call detect হয়েছে। Check now at http://robi-securealert.com এবং reference 7931 submit করুন
+183,smish,City Bank ATM suspicious withdrawal detect হয়েছে। Protect করতে visit করুন http://citybank-secure.com এবং validate OTP 4723
+184,smish,Congratulations! Dutch-Bangla lucky draw prize ৬ লাখ TK। Claim করতে visit করুন http://dbbl-luckydraw.com with code 9187 before ২৫ Sep
+185,promo,"GP offer: Recharge ৩০০ TK এবং ৩ GB extra data। Limited period, recharge today এবং enjoy full benefit"
+186,promo,"Summer collection: সব t-shirts, jeans, এবং shoes ২৫% discount। Shop online অথবা nearest store visit করুন"
+187,promo,"Robi recharge ৫০০ TK এবং ৮০ TK bonus পান। Offer valid first ১০০০ users only, hurry up and claim today"
+188,promo,City Bank app pay করুন এবং instant cashback ২০% পান। Download now এবং enjoy hassle-free secure transactions
+189,normal,আজ dinner এর জন্য কি plan? তুমি cook করতে চাও নাকি বাইরে order করি? Let me know before ৮ pm
+190,normal,"Hi Rafiq, meeting time কাল confirm করেছো কি? আমি ready করতে চাই, so kindly reply asap"
+191,smish,আপনার Islami Bank account এ unusual login detect হয়েছে। Verify করতে visit করুন http://islamibank-secure.com এবং OTP 7412 submit করুন
+192,smish,"URGENT: আপনার Nagad account থেকে ১০,০০০ TK unauthorized transfer detect হয়েছে। Protect করতে click করুন http://nagadprotection.com এবং code 8532"
+193,smish,Alert! আপনার bKash app suspicious login detect হয়েছে। Verify করতে এখনই visit করুন http://bkashtk-login.com এবং provide OTP 6253
+194,smish,Warning! আপনার UCB card recent transaction unusual detect হয়েছে। Secure করতে visit করুন http://ucbsecurelogin.com এবং OTP 4921
+195,smish,City Bank ATM card unusual withdrawal detect হয়েছে। Protect করতে click করুন http://citybank-alerts.com এবং validate code 3742
+196,smish,সতর্কতা! Robi number ০১৮XXXXXX unauthorized call detect হয়েছে। Check now at http://robi-alertbd.com এবং reference 9582 submit করুন
+197,smish,আপনার Dutch-Bangla Bank account unknown device login detect হয়েছে। Verify করতে visit করুন http://dbblsecurity.com এবং OTP 8361
+198,smish,Congratulations! Dutch-Bangla lucky draw prize ৮ লাখ TK। Claim করতে visit করুন http://dbbl-luckydraw.com with code 9625 before ৩১ Sep
+199,smish,Warning! আপনার Nagad account suspicious fund transfer detect হয়েছে। Confirm now: http://nagadsecurebd.com এবং protect account immediately
+200,promo,"GP special recharge: ২০০ TK এবং ৪ GB extra data। Limited time, recharge আজই এবং enjoy full benefits"
+201,promo,"Mega Summer Sale: সব t-shirts, jeans এবং shoes ২৫% discount। Shop online অথবা nearest store visit করুন"
+202,promo,"Robi recharge ৫০০ TK এবং ১২০ TK bonus। First ১০০০ users only, hurry up claim today"
+203,promo,DBBL online payment করুন এবং exclusive loyalty points পান। Register now এবং future bills এ redeem করুন
+204,promo,City Bank app pay করুন এবং instant cashback ১৮% পান। Download now এবং enjoy secure transactions
+205,normal,"Hi Arif, library study session কাল হবে। তুমি join করছো কি? Let’s meet around ৬ pm এবং notes share করি"
+206,normal,আজকে dinner plan কি? তুমি cook করতে চাও নাকি outside order করি? Let me know before ৮ pm
+207,normal,"আজ Sunday, chill করার mood আছে। Coffee shop এ যাই কি? Weather sunny এবং mood perfect"
+208,normal,আজ bike ride করতে যাই? Weather সুন্দর। তুমি join করছো কি? Let’s meet at usual spot ৬:৩০ am
+209,smish,আপনার Islami Bank card unusual transaction detect হয়েছে। Protect করতে visit করুন http://islamibank-secure.com এবং OTP 8524 submit করুন
+210,smish,Alert! আপনার bKash account unauthorized fund transfer detect হয়েছে। Secure করতে click করুন http://bkashtk-safe.com এবং OTP 9351 submit করুন
+211,smish,Warning! DBBL online banking suspicious login detect হয়েছে। Verify করতে visit করুন http://dbblsecurelogin.com এবং complete security check
+212,smish,URGENT: Nagad account temporary block হয়েছে। Reactivate করতে এখনই click করুন http://nagad-alert.com before ২৪ hours expire
+213,smish,আপনার UCB card unusual purchase detect হয়েছে। Confirm করতে visit করুন http://ucbverify.com এবং OTP 6483 submit করুন
+214,smish,সতর্কতা! Robi number ০১৭XXXXXX unauthorized call detect হয়েছে। Check now at http://robi-securealert.com এবং reference 8932 submit করুন
+215,smish,City Bank ATM suspicious withdrawal detect হয়েছে। Protect করতে visit করুন http://citybank-secure.com এবং validate OTP 7423
+216,smish,Congratulations! Dutch-Bangla lucky draw prize ৯ লাখ TK। Claim করতে visit করুন http://dbbl-luckydraw.com with code 9274 before ৩০ Sep
+217,promo,"GP offer: Recharge ৫০০ TK এবং ৫ GB extra data। Limited period, recharge today এবং enjoy full benefit"
+218,promo,"Summer festival: সব shirts, jeans, shoes ৩০% discount। Shop online অথবা nearest store visit করুন"
+219,promo,"Robi recharge ২০০ TK এবং ৭০ TK bonus। First ১০০০ users only, hurry up claim today"
+220,normal,আজ dinner জন্য কি plan? তুমি cook করতে চাও নাকি outside order করি? Let me know before ৮ pm
+221,smish,আপনার DBBL account-এ suspicious activity report করা হয়েছে। Immediately call 01987-654321 to avoid suspension.
+222,promo,গ্রীষ্মের special offer from Banglalink! এখন recharge করুন TK 99 এবং পাচ্ছেন 10GB data for 7 days.
+223,normal,"ভাই, তুমি কি airport এ যাবে? Can you drop me on your way?"
+224,promo,"Unilever এর পক্ষ থেকে special discount! সব product-এ 30% off, only at Shwapno outlets. Hurry up!"
+225,normal,"Maya, কালকে আমাদের project submission আছে। Have you finished your part?"
+226,normal,"আমি market এ যাচ্ছি, need anything? Let me know quickly."
+227,promo,Shopner Hat এ এখন পাচ্ছেন handmade crafts with amazing discounts. Visit our website for details.
+228,normal,"Rina, তোমার phone numberটা send করো। I lost my contact list."
+229,normal,কালকে rain হওয়ার chance আছে। Should we reschedule our plan?
+230,normal,আপনি কি আগামীকাল meeting এ attend করবেন? Please confirm your availability.
+231,normal,Let's meet for coffee tomorrow. আমার অনেক কথা বলার আছে।
+232,smish,"আপনার DBBL account থেকে ৳25,000 withdrawal detect করা হয়েছে। This is a fraudulent activity. To cancel, কল করুন 16216 নম্বরে immediately।"
+233,promo,"Buy 1 Get 1 free at Aarong! এই অফারটি valid 10th October পর্যন্ত। Don't miss out, সুযোগ হাতছাড়া করবেন না!"
+234,normal,আজকে কি free আছো? আমার তোমার সাথে কথা আছে about our project.
+235,smish,"প্রিয় গ্রাহক, আপনার Nagad account lock করা হয়েছে। To reactivate, এই link এ click করুন: http://secure-nagad-bd.com/update-info"
+236,promo,ঈদ উপলক্ষে দারাজে huge sale চলছে! Get up to 70% off on electronics and fashion। এখনই shop করুন!
+237,normal,Dinner এ কি plan? আমার অনেক biriyani খেতে ইচ্ছে করছে from old Dhaka.
+238,smish,"আপনি গ্রামীণফোন থেকে 5G router জেতার জন্য selected হয়েছেন। Your winning code হলো GPWIN123। To claim, এই site visit করুন: http://gp-offer-claims.net"
+239,normal,Exam এর জন্য পড়াশোনা কেমন চলছে? I am so stressed about the final।
+240,smish,আপনার OTP কোডটি কারো সাথে share করবেন না! A suspicious login attempt আপনার account এ করা হয়েছে from Dhaka। Report now to prevent account access।
+241,normal,অফিস থেকে কখন বের হবা? Let's catch up for coffee later।
+242,smish,"Congrats! You have won ৳50,000 in our lottery। To receive the money, আপনার credit card number and CVC code পাঠান। To claim, এই link এ visit করুন: http://lottery-prize-bd.co"
+243,promo,Up to 50% discount on all books at Rokomari.com। ৳500 এর উপরের orders এর জন্য free home delivery।
+244,normal,Birthday party তে তুমি আসছো তো? Everyone is excited to see you।
+245,promo,একটি large pizza কিনলে একটি free পাবেন। This exclusive offer আমাদের valued customers দের জন্য। Order now!
+246,normal,Movieটা কেমন ছিল? আমি শুনেছি এটা must-watch।
+247,smish,"আপনার card ending in 8976 temporarily block করা হয়েছে due to unusual activity। Unblock করতে, please visit this link: http://card-unblock-bd.com"
+248,promo,Safa Fashion এ নতুন কালেকশন এসেছে। Buy any 2 get 1 free। Visit our store to find out more।
+249,normal,Let's go on a trip next week। আমরা কোথায় যাবো?
+250,smish,"Congratulations, আপনি একটি নতুন iPhone 15 Pro Max এর lucky winner। To claim your prize, আপনার personal details আমাদের WhatsApp এ share করুন।"
+251,normal,"ভাই, কেমন আছো? অনেকদিন পর তোমার সাথে কথা হচ্ছে।"
+252,smish,"Your loan application successful হয়েছে। To receive the fund, please send us a processing fee of ৳2,000। More info এর জন্য, এই number এ call করুন।"
+253,promo,আমাদের নতুন product line থেকে যেকোনো item কিনলে ৳500 cashback পাবেন। This offer is only for this week।
+254,normal,আমার জন্য একটু অপেক্ষা করো। I am running late। 15 minutes এর মধ্যে চলে আসছি।
+255,normal,ক্লাসে কি আজকে sir আসছিলেন? আমি attend করতে পারিনি today।
+256,normal,তোমার সাথে দেখা করতে চাই। Can we meet on Sunday?
+257,promo,Enjoy 100% bonus data with our new weekly plan। Packটি কিনে double data পান same price এ।
+258,normal,আজকে আবহাওয়াটা অনেক সুন্দর। Let's go out for a walk।
+259,normal,I am not feeling well today। আজকের class এর notes গুলো কি আমাকে send করতে পারবে?
+260,normal,কাজটা কি শেষ হয়েছে? I need to submit it by tomorrow।
+261,promo,যেকোনো laptop কিনুন এবং একটি free mouse and keyboard পান। We have a wide range of products with amazing prices। Shop now!
+262,normal,Lets go out for a movie tonight। আমরা কোনটা দেখব?
+263,normal,Where are you? আমি 30 minutes ধরে তোমার জন্য wait করছি।
+264,normal,Hey! What's up? অনেকদিন পর তোমার সাথে কথা হলো।
+265,smish,"প্রিয় গ্রাহক, আপনার বিকাশ একাউন্ট temporarily suspended হয়েছে। Reactivate করতে এই লিংকে ক্লিক করুন: http://bkash-reactivate-bd.com/update"
+266,normal,আজকে কি ক্লাস আছে? আমি schedule নিয়ে confused।
+267,normal,Can you send me the photos from last night? আমি ছবি তুলতে ভুলে গিয়েছিলাম।
+268,normal,I'm going to the mall। তুমি কি আমার সাথে আসতে চাও?
+269,smish,"আপনার DBBL account থেকে ৳35,000 withdrawal detect করা হয়েছে। This is a fraudulent transaction. To cancel, dial 16216 immediately।"
+270,promo,"Buy 1 Get 1 free at Aarong! এই offer টা valid 15th November পর্যন্ত। Don't miss out, সুযোগ হাতছাড়া করবেন না!"
+271,normal,আজকে কি free আছো? I need to talk to you about our team project।
+272,promo,Eid উপলক্ষে Daraz এ huge sale! Get up to 70% off on electronics and fashion। এখনই shop করুন!
+273,normal,Dinner এ কি plan? আমার অনেক biriyani খেতে ইচ্ছে করছে from Old Dhaka।
+274,smish,"আপনি Grameenphone থেকে 5G router জেতার জন্য selected হয়েছেন। Your winning code হলো GPWIN456। To claim, এই site visit করুন: http://gp-offer-claims.net"
+275,normal,Exam এর জন্য পড়াশোনা কেমন চলছে? I am so stressed about the final exam।
+276,normal,Office থেকে কখন বের হবা? Let's catch up for coffee later today।
+277,smish,"Congrats! You have won ৳75,000 in our lottery। To receive the money, আপনার credit card number and CVC code পাঠান। To claim, এই link এ visit করুন: http://lottery-prize-bd.co"
+278,promo,Up to 50% discount on all books at Rokomari.com। ৳600 এর উপরের orders এর জন্য free home delivery।
+279,normal,Birthday party তে তুমি আসছো তো? Everyone is excited to see you there।
+280,normal,Movieটা কেমন ছিল? আমি শুনেছি এটা a must-watch film।
+281,smish,"আপনার card ending in 9876 temporarily block করা হয়েছে due to unusual activity। Unblock করতে, please visit this link: http://card-unblock-bd.com"
+282,smish,"Your loan application successful হয়েছে। To receive the fund, please send us a processing fee of ৳2,500। More info এর জন্য, এই number এ call করুন।"
+283,promo,আমাদের নতুন product line থেকে যেকোনো item কিনলে ৳550 cashback পাবেন। This offer is only for this week।
+284,normal,আমার জন্য একটু অপেক্ষা করো। I am running late। 20 minutes এর মধ্যে চলে আসছি।
+285,normal,তোমার সাথে দেখা করতে চাই। Can we meet on Saturday?
+286,normal,আজকে কি ক্লাস আছে? I am confused about the schedule।
+287,smish,"আপনার DBBL account থেকে ৳45,000 withdrawal detect করা হয়েছে। This is a fraudulent activity. To cancel, কল করুন 16216 নম্বরে immediately।"
+288,promo,"Buy 1 Get 1 free at Aarong! এই offer টা valid 30th November পর্যন্ত। Don't miss out, সুযোগ হাতছাড়া করবেন না!"
+289,normal,আজকে কি free আছো? আমার তোমার সাথে কথা আছে about our team project।
+290,promo,Eid উপলক্ষে Daraz এ huge sale! Get up to 75% off on electronics and fashion। এখনই shop করুন!
+291,smish,"আপনি Grameenphone থেকে 5G router জেতার জন্য selected হয়েছেন। Your winning code হলো GPWIN789। To claim, এই site visit করুন: http://gp-offer-claims.net"
+292,promo,Up to 60% discount on all books at Rokomari.com। ৳700 এর উপরের orders এর জন্য free home delivery।
+293,smish,"আপনার card ending in 6543 temporarily block করা হয়েছে due to unusual activity। Unblock করতে, please visit this link: http://card-unblock-bd.com"
+294,smish,"Your loan application successful হয়েছে। To receive the fund, please send us a processing fee of ৳3,000। More info এর জন্য, এই number এ call করুন।"
+295,promo,আমাদের নতুন product line থেকে যেকোনো item কিনলে ৳600 cashback পাবেন। This offer is only for this week।
+296,normal,আমার জন্য একটু অপেক্ষা করো। I am running late। 25 minutes এর মধ্যে চলে আসছি।
+297,normal,তোমার সাথে দেখা করতে চাই। Can we meet on Monday?
+298,smish,"আপনার DBBL account থেকে ৳50,000 withdrawal detect করা হয়েছে। This is a fraudulent activity. To cancel, call করুন 16216 immediately।"
+299,promo,"Buy 1 Get 1 free at Aarong! এই offer টা valid 15th December পর্যন্ত। Don't miss out, সুযোগ হাতছাড়া করবেন না!"
+300,normal,আজকে কি free আছো? আমার তোমার সাথে কথা আছে about our project।
+301,promo,Eid উপলক্ষে Daraz এ huge sale! Get up to 80% off on electronics and fashion। এখনই shop করুন!
+302,smish,"আপনি Grameenphone থেকে 5G router জেতার জন্য selected হয়েছেন। Your winning code হলো GPWIN901। To claim, এই site visit করুন: http://gp-offer-claims.net"
+303,smish,"Congrats! You have won ৳90,000 in our lottery। To receive the money, আপনার credit card number and CVC code পাঠান। To claim, এই link এ visit করুন: http://lottery-prize-bd.co"
+304,promo,Up to 70% discount on all books at Rokomari.com। ৳800 এর উপরের orders এর জন্য free home delivery।
+305,smish,"আপনার card ending in 3210 temporarily block করা হয়েছে due to unusual activity। Unblock করতে, please visit this link: http://card-unblock-bd.com"
+306,smish,"Your loan application successful হয়েছে। To receive the fund, please send us a processing fee of ৳3,500। More info এর জন্য, এই number এ call করুন।"
+307,promo,আমাদের নতুন product line থেকে যেকোনো item কিনলে ৳650 cashback পাবেন। This offer is only for this week।
+308,normal,আমার জন্য একটু অপেক্ষা করো। I am running late। 30 minutes এর মধ্যে চলে আসছি।
+309,normal,তোমার সাথে দেখা করতে চাই। Can we meet on Tuesday?
+310,smish,"আপনার DBBL account থেকে ৳55,000 withdrawal detect করা হয়েছে। This is a fraudulent transaction. To cancel, call করুন 16216 immediately।"
+311,promo,"Buy 1 Get 1 free at Aarong! এই offer টা valid 31st December পর্যন্ত। Don't miss out, সুযোগ হাতছাড়া করবেন না!"
+312,normal,আজকে কি free আছো? আমার তোমার সাথে কথা আছে about our new project।
+313,promo,New Year উপলক্ষে Daraz এ huge sale! Get up to 85% off on electronics and fashion। এখনই shop করুন!
+314,smish,"আপনি Grameenphone থেকে 5G router জেতার জন্য selected হয়েছেন। Your winning code হলো GPWIN023। To claim, এই site visit করুন: http://gp-offer-claims.net"
+315,smish,"Congrats! You have won ৳95,000 in our lottery। To receive the money, আপনার credit card number and CVC code পাঠান। To claim, এই link এ visit করুন: http://lottery-prize-bd.co"
+316,promo,Up to 80% discount on all books at Rokomari.com। ৳900 এর উপরের orders এর জন্য free home delivery।
+317,smish,"আপনার card ending in 8765 temporarily block করা হয়েছে due to unusual activity। Unblock করতে, please visit this link: http://card-unblock-bd.com"
+318,smish,"Your loan application successful হয়েছে। To receive the fund, please send us a processing fee of ৳4,000। More info এর জন্য, এই number এ call করুন।"
+319,promo,আমাদের নতুন product line থেকে যেকোনো item কিনলে ৳700 cashback পাবেন। This offer is only for this week।
+320,normal,আমার জন্য একটু অপেক্ষা করো। I am running late। 35 minutes এর মধ্যে চলে আসছি।
+321,normal,তোমার সাথে দেখা করতে চাই। Can we meet on Wednesday?
+322,smish,"আপনার DBBL account থেকে ৳60,000 withdrawal detect করা হয়েছে। This is a fraudulent activity. To cancel, call করুন 16216 নম্বরে immediately।"
+323,promo,"Buy 1 Get 1 free at Aarong! এই offer টা valid 15th January পর্যন্ত। Don't miss out, সুযোগ হাতছাড়া করবেন না!"
+324,promo,New Year উপলক্ষে Daraz এ huge sale! Get up to 90% off on electronics and fashion। এখনই shop করুন!
+325,smish,"আপনি Grameenphone থেকে 5G router জেতার জন্য selected হয়েছেন। Your winning code হলো GPWIN345। To claim, এই site visit করুন: http://gp-offer-claims.net"
+326,smish,"Congrats! You have won ৳1,00,000 in our lottery। To receive the money, আপনার credit card number and CVC code পাঠান। To claim, এই link এ visit করুন: http://lottery-prize-bd.co"
+327,promo,Up to 90% discount on all books at Rokomari.com। ৳1000 এর উপরের orders এর জন্য free home delivery।
+328,smish,"আপনার card ending in 7654 temporarily block করা হয়েছে due to unusual activity। Unblock করতে, please visit this link: http://card-unblock-bd.com"
+329,smish,"Your loan application successful হয়েছে। To receive the fund, please send us a processing fee of ৳4,500। More info এর জন্য, এই number এ call করুন।"
+330,promo,আমাদের নতুন product line থেকে যেকোনো item কিনলে ৳750 cashback পাবেন। This offer is only for this week।
+331,normal,আমার জন্য একটু অপেক্ষা করো। I am running late। 40 minutes এর মধ্যে চলে আসছি।
+332,normal,তোমার সাথে দেখা করতে চাই। Can we meet on Thursday?
+333,smish,"আপনার Bank Asia account-এ TK 18,750 suspicious transaction দেখা গেছে। Immediately verify: http://bankasia-secure.net "
+334,promo,গ্রীষ্মের special offer from Airtel! Recharge করুন TK 150 এবং পাবেন 2GB data + 100 minutes. আজই activate করুন।
+335,normal,"ভাই, তুমি কি কালকে doctor's appointment এ যাবে? Can you pick me up on the way?"
+336,promo,"Pickaboo এ চলছে Mega Sale! সব smartphones এ up to 12% discount. আজই order করুন, stock limited।"
+337,normal,"মা, আমি library থেকে returning, আপনার জন্য কি বই নিয়ে আসব? Let me know quickly."
+338,promo,"শীতের special discount at Westecs! সব laptops এ 15% off + free bag. Hurry, offer valid মাস শেষে।"
+339,normal,"তুমি কি meeting টা advance করতে পারবে? I have another commitment, এক ঘণ্টা early হবে?"
+340,normal,"রহিম, তোমার projector টা কি আমি borrow করতে পারি? I need it for presentation."
+341,promo,Jamuna Future Park এ Puja Sale শুরু হয়েছে! সব sarees এ additional 20% cashback. Don't miss.
+342,normal,"চাচা, তুমি কি farmhouse এ যাবে? Can you drop me at Savar on your way?"
+343,normal,কালকে কি আমাদের viva exam আছে? I need to prepare tonight.
+344,normal,"আপা, তোমার pen drive টা দিতে পারবে? আমার presentation save করতে হবে।"
+345,promo,"Othoba.com এ electronic shopping করুন এবং পাচ্ছেন free installation on ACs. Today only, shop now!"
+346,normal,"ফারহান, তোমার project report finished? I need to submit mine tomorrow."
+347,normal,"তুমি কি new series টা দেখেছ? It's trending everywhere, you should watch."
+348,promo,Pran Group এর পক্ষ থেকে special offer! সব beverages এ 20% off at Meena Bazar. Hurry up!
+349,normal,"খালা, আপনি কি পরশু free থাকবেন? I need to discuss property papers."
+350,normal,কালকে storm warning আছে। Should we postpone our river trip?
+351,normal,তুমি কি help করতে পারবে আমার assignment এ? I'm stuck with coding part.
+352,normal,"আজকে আমি slightly sick, can we move dinner to tomorrow?"
+353,normal,তুমি কি launch ghat এ পৌঁছেছ? Let me know when boat arrives.
+354,normal,কালকে seminar টা কখন শুরু হবে? Please send the schedule.
+355,normal,তোমার fever better হয়েছে? Drink plenty of fluids and rest.
+356,normal,"আমি CNG এ উঠেছি, আর ৩০ minute লাগবে। Wait at gate number 3."
+357,normal,তুমি কি আমার email পেয়েছ? I sent the documents yesterday.
+358,normal,পরশু কি তুমি free থাকবে? We need to finalize the tour package.
+359,normal,তুমি কি airport এ যাবে? My flight arrives at 9 PM.
+360,normal,"কালকে holiday declare করা হয়েছে, so we can sleep late."
+361,normal,তুমি কি new market যাবে? I need to buy wedding gifts.
+362,normal,তোমার SIM change হয়েছে? I tried calling but number not reachable.
+363,normal,"আজকে evening খুব pleasant, should we go for ice cream?"
+364,normal,"আজকে road repair করা হচ্ছে, I will be late by 15 minutes."
+365,normal,কালকে কি তুমi office যাবে? I need to collect the files.
+366,normal,তুমি কি lunch করতে এসেছ? I saved a seat for you.
+367,normal,আজকে কি তুমi swimming যাবে? Let's go together in the afternoon.
+368,normal,তুমি কি bus catch করতে পেরেছ? Let me know when you reach Mohakhali.
+369,normal,"কালকে load shedding হওয়ায় class cancel, so we can play cricket."
+370,normal,তুমি কি launch terminal এ পৌঁছেছ? Let me know when you board the ferry.
+371,normal,পরশু কি তুমি free থাকবে? I want to show you the new apartment.
+372,smish,আপনার account এ suspicious activity দেখা গেছে। Immediately verify your identity: http://secure-bank-bd.com 
+373,promo,Robi থেকে exclusive offer! Recharge করুন TK 100 এবং পাবেন extra talktime. আজই activate করুন।
+374,normal,"ভাই, তুমি কি কালকে college যাবে? Let's go together, আমার class আছে।"
+375,promo,"Daraz এ চলছে mega sale! সব products এ huge discounts. আজই shop করুন, offer শেষ হচ্ছে।"
+376,normal,"মা, আমি market থেকে returning, আপনার জন্য কি নিয়ে আসব? Let me know."
+377,promo,"গ্রীষ্মের special discount at shops! সব items এ amazing offers. Hurry, offer valid soon."
+378,normal,"তুমি কি meeting টা postpone করতে পারবে? I am busy, পরে হবে?"
+379,normal,"রহিম, তোমার book টা কি আমি borrow করতে পারি? I need it for study."
+380,promo,Shopping mall এ sale শুরু হয়েছে! সব products এ additional benefits. Don't miss out.
+381,normal,"চাচা, তুমি কি town এ যাবে? Can you drop me at the station?"
+382,normal,কালকে কি আমাদের exam আছে? I need to prepare tonight.
+383,normal,"আপা, তোমার pen টা দিতে পারবে? আমার লেখা করতে হবে।"
+384,promo,"Online shop এ shopping করুন এবং পাচ্ছেন free delivery. Today only, shop now!"
+385,normal,"সুমাইয়া, তোমার assignment finished? I need to check something."
+386,normal,"তুমি কি new movie দেখেছ? It was good, you should watch."
+387,promo,Company এর পক্ষ থেকে special offer! সব products এ discounts at stores. Hurry up!
+388,normal,"খালা, আপনি কি free থাকবেন? I need to discuss something."
+389,normal,কালকে bad weather forecast আছে। Should we change our plan?
+390,normal,তুমি কি help করতে পারবে my work এ? I'm having difficulty.
+391,normal,"আজকে আমি tired, can we reschedule our plan?"
+392,normal,তুমি কি terminal এ পৌঁছেছ? Let me know when you arrive.
+393,normal,কালকে event টা কখন শুরু হবে? Please confirm time.
+394,normal,তোমার health better হয়েছে? Take care and get well soon.
+395,normal,"আমি transport এ উঠেছি, আর সময় লাগবে। Wait for me."
+396,normal,তুমি কি my message পেয়েছ? I sent it earlier.
+397,normal,পরশু কি তুমি free থাকবে? We need to meet.
+398,normal,তুমি কি station এ যাবে? My transport arrives at evening.
+399,normal,"কালকে holiday announced, so we can relax."
+400,normal,তুমি কি market যাবে? I need to buy things.
+401,normal,"আজকে weather nice, should we go out?"
+402,normal,"আজকে traffic jam, I will be late."
+403,normal,তুমি কি work finished? I need help with task.
+404,normal,কালকে কি office যাবে? I need to give you something.
+405,normal,তুমি কি lunch করতে এসেছ? I was waiting.
+406,normal,আজকে কি exercise যাবে? Let's go together.
+407,normal,তুমি কি transport catch করতে পেরেছ? Let me know when you reach.
+408,normal,"কালকে problem হওয়ায় program cancel, so we can do something else."
+409,normal,তুমি কি terminal এ পৌঁছেছ? Let me know when you board.
+410,normal,পরশু কি free থাকবে? I want to meet you.
+411,smish,আপনার bKash account এ unusual transaction detect হয়েছে। Immediate action নিতে visit করুন http://verify-bkash.com
+412,smish,DBBL থেকে alert: আপনার account block হতে পারে। Click করুন http://dbbl-secure.net
+413,smish,আপনি lottery জিতেছেন! Claim করতে code 78291 ব্যবহার করুন এখনই: http://win-tk.com
+414,smish,Sonali Bank থেকে warning: আপনার account এ unauthorized login detect হয়েছে। Verify করুন http://secure-sonali.net
+415,smish,আপনার Rocket number 01712XXXXXX suspicious activity দেখিয়েছে। Login করুন http://rocket-verify.com
+416,smish,"Nagad alert: TK 50,000 deduct হয়েছে suspicious transaction এর জন্য। Confirm করুন http://nagad-secure.net"
+417,smish,আপনি recent deposit miss করেছেন। Claim করতে এই link open করুন: http://fast-pay.tk
+418,smish,Trust Bank থেকে warning: আপনার card block হতে পারে। Update করতে visit করুন http://trustbank-secure.com
+419,smish,আপনার bank account এ unusual transfer detect হয়েছে। Click http://bank-alert.tk
+420,promo,New offer! Grameenphone recharge এ 20% extra bonus আজই নিন। Hurry up!
+421,promo,Robi combo pack এখন মাত্র TK 350 এ। Shop করুন online today!
+422,promo,Airtel 4G এর unlimited data pack এখন discounted price এ। Subscribe করুন এখনই!
+423,promo,Big Sale: আর আজই Beximco fashion এ ৩০% discount। Don’t miss out!
+424,promo,Walton smart TV কিনলে gift voucher পাবেন TK 500 এর। Order করুন আজই!
+425,promo,GP internet pack আজ থেকে ৭ দিন limited offer। Activate করুন online এখনই!
+426,promo,Nagad app এর মাধ্যমে payment করলে cashback ১৫%। Use code: NAGAD15
+427,promo,Ajker special offer: Pathao ride এ ২৫% discount। Book করুন এখন!
+428,promo,Citycell recharge আজ থেকে ৭২ ঘণ্টার জন্য extra ১০% bonus। Don’t wait!
+429,normal,কালকে class এ আসবা তো? Let’s go together from বাসা।
+430,normal,আপনি কেমন আছেন? I was thinking about yesterday’s meeting.
+431,normal,Raysha আজ play করবে garden এ। Want to join with us?
+432,normal,Lunch এ কোথায় যাব? I feel like having pizza আজ।
+433,normal,আজকে evening এ movie দেখতে যাবে। Are you coming?
+434,normal,আপনার ভাইকে message পাঠিয়েছেন কি? He didn’t reply yet।
+435,normal,"Ami busy ছিলাম আজ, but tomorrow free আছি। Shall we meet?"
+436,normal,সকালটা ভালো গেল? My morning was hectic।
+437,normal,Chotto break নিতে চাই। তুমি চাইলে আসো।
+438,smish,আপনার BKash verification pending আছে। Immediate confirm করুন http://bkash-secure.tk
+439,smish,আপনার Nagad account suspend হতে পারে। Verify করুন এখনই http://nagad-check.tk
+440,smish,Prime Bank থেকে urgent notification: account suspend হতে পারে। Check করুন http://prime-verify.com
+441,smish,আপনি recent prize জিতেছেন! Claim code: 98321 at http://win-tk.com
+442,smish,Trust Bank থেকে alert: suspicious login detect হয়েছে। Verify করুন http://trust-secure.tk
+443,smish,আপনার card এ unusual activity detect হয়েছে। Confirm করুন http://card-check.com
+444,smish,আপনার bank account এ fraud detect হয়েছে। Click http://bank-secure.tk
+445,promo,Walton smartphone কিনলে free gift পাবেন। Order করুন online আজই!
+446,promo,GP এ ১০০ MB free data আজকে শুধুমাত্র। Activate করুন এখনই!
+447,promo,Robi app এ special offer: recharge করলে ১৫% extra credit। Hurry!
+448,promo,Airtel postpaid user এর জন্য ২০% discount offer চলছে। Don’t miss!
+449,promo,Big Sale: Dhaka electronics shop এ ২৫% discount। Shop করুন এখন!
+450,promo,Nagad payment করলে instant cashback পাবেন। Use code: CASHBACK20
+451,promo,Citycell এ top-up করলে ১০% extra bonus পাবেন। Don’t wait!
+452,promo,Pathao ride এ ২৫% discount আজ। Book করুন এখনই!
+453,promo,GP internet pack আজ থেকে limited time offer। Activate করুন online!
+454,normal,আজকে weather কেমন? I think it’s perfect for a picnic।
+455,normal,আপনি কি market যাবেন? I can join আপনার সাথে।
+456,normal,Dinner এ কোথায় যাব? I feel like having Chinese food আজ।
+457,normal,আপনার mama phone করেছিল? I didn’t get any message।
+458,normal,আজকে Sunday। Let’s plan something fun আজ।
+459,normal,আপনি কেমন অনুভব করছেন? My day was tiring।
+460,normal,Morning tea খেয়েছেন কি? I had black coffee আজ।
+461,smish,আপনার BKash account এ suspicious login detect হয়েছে। Verify now http://bkash-alert.com
+462,smish,Sonali Bank থেকে alert: account suspend হতে পারে। Confirm করুন http://sonali-secure.net
+463,smish,আপনি recent lottery জিতেছেন! Claim now using code 78452 at http://win-tk.com
+464,smish,Trust Bank card এ unusual activity detect হয়েছে। Immediate action নিতে visit http://trustbank-alert.com
+465,smish,আপনার Nagad account এ unauthorized access detect হয়েছে। Click http://nagad-secure.com
+466,smish,আপনার DBBL account এ unusual withdrawal detect হয়েছে। Verify now http://dbbl-alert.net
+467,promo,GP 4G data pack আজ special offer। Activate করুন এখনই!
+468,promo,Robi app recharge করলে ১৫% extra credit। Don’t miss!
+469,promo,Airtel user এর জন্য special discount offer চলছে। Avail করুন online!
+470,promo,Walton smart appliance কিনলে gift voucher পাবেন। Order করুন আজই!
+471,promo,Big Sale: Dhaka electronics shop এ ৩০% discount। Shop করুন এখন!
+472,promo,Nagad payment করলে instant cashback পাবেন। Use code: CASHBACK15
+473,promo,Pathao ride এ ২০% discount আজ। Book করুন এখনই!
+474,promo,Citycell recharge করলে ১০% extra bonus পাবেন। Don’t wait!
+475,promo,GP internet pack আজ থেকে limited time offer। Activate করুন এখনই!
+476,normal,আপনি কেমন আছেন? I was thinking about yesterday’s class।
+477,normal,Raysha আজ garden এ খেলবে। Want to join her?
+478,normal,Lunch কোথায় খাবো? I feel like having burger আজ।
+479,normal,আজ evening movie দেখতে যাব। Are you coming?
+480,normal,Dinner কোথায় খাবো? I am thinking Chinese বা Bengali food আজ।
+481,smish,আপনার Nagad account এ suspicious login detect হয়েছে। Immediate verify করুন http://nagad-alert.com
+482,smish,আপনি lottery prize জিতেছেন! Claim করতে code 45289 use করুন: http://win-tk.com
+483,smish,Trust Bank থেকে alert: unauthorized transfer detect হয়েছে। Confirm করুন http://trustbank-alert.net
+484,smish,Prime Bank warning: আপনার account suspend হতে পারে। Check now http://primebank-alert.com
+485,smish,DBBL থেকে alert: suspicious login detect হয়েছে। Visit http://dbbl-check.com
+486,smish,আপনার Nagad card এ unusual transaction detect হয়েছে। Verify now http://nagad-secure.net
+487,smish,আপনি recent prize জিতেছেন! Claim now at http://win-tk.com
+488,smish,Prime Bank থেকে urgent notification: account block হতে পারে। Visit http://primebank-secure.com
+489,smish,আপনার DBBL account এ unusual activity detect হয়েছে। Confirm now http://dbbl-alert.tk
+490,smish,আপনি lottery জিতেছেন! Claim করতে code 98634 use করুন: http://win-tk.net
+491,smish,আপনার Nagad account suspend হতে পারে। Confirm now http://nagad-verify.com
+492,smish,আপনি recent lottery prize জিতেছেন! Claim now at http://win-tk.com
+493,promo,GP recharge করুন আজকে এবং extra ২০% bonus পান। Hurry up!
+494,promo,Robi app recharge করলে ১৫% extra credit। Don’t miss out!
+495,promo,Airtel unlimited data pack আজ discounted price এ। Subscribe করুন now!
+496,promo,Walton smartphone কিনলে gift voucher পাবেন TK 500। Order করুন আজই!
+497,promo,Big Sale: Beximco fashion এ ৩০% discount। Shop করুন online এখনই!
+498,promo,Nagad payment করলে ১০% cashback পাবেন। Use code: NAGAD10
+499,promo,GP internet pack আজ থেকে ৭ দিন limited offer। Activate করুন online!
+500,promo,Robi combo pack মাত্র TK 300। Shop করুন এখনই!
+501,promo,Walton smart appliance কিনলে gift voucher পাবেন TK 700। Order করুন আজই!
+502,promo,Nagad app payment করলে instant cashback পাবেন। Use code: CASHBACK25
+503,promo,Pathao ride এ ২০% discount আজ। Book করুন online!
+504,promo,Citycell recharge এ ১০% extra bonus পাবেন limited time। Don’t wait!
+505,promo,Robi app recharge করলে ১৫% extra credit। Hurry up!
+506,normal,কালকে class এ আসবা তো? Let’s go together বাসা থেকে।
+507,normal,আপনি কেমন আছেন? I was thinking about yesterday’s meeting।
+508,normal,Raysha আজ garden এ খেলবে। Want to join with us?
+509,normal,Lunch কোথায় যাব? I feel like having pizza আজ।
+510,normal,আজকে weather কেমন? I think perfect for picnic আজ।
+511,normal,Dinner কোথায় খাবো? I feel like having Chinese food আজ।
+512,normal,আপনার mama ফোন করেছিল? I didn’t get any message।
+513,normal,"Ami office এ busy ছিলাম, but evening free। Shall we meet?"
+514,normal,আপনার ভাই কি ঠিক আছে? I didn’t hear from him today।
+515,normal,Ajker weather কেমন? Perfect day for picnic আজ।
+516,normal,Raysha school এ যাবে কি? I will drop her।
+517,normal,আজকে morning tea খেয়েছেন? I had black coffee today।
+518,normal,Lunch কোথায় খাবো? I feel like burger আজ।
+519,smish,আপনার BKash account এ unusual transaction detect হয়েছে। Immediate verify করুন http://bkash-alert.com
+520,smish,আপনি recent lottery prize জিতেছেন! Claim code 92714 at http://win-tk.com
+521,smish,আপনার Nagad account suspend হতে পারে। Confirm now http://nagad-verify.tk
+522,smish,DBBL থেকে alert: unauthorized transaction detect হয়েছে। Click http://dbbl-alert.com
+523,smish,আপনার BKash card এ unusual activity detect হয়েছে। Verify now http://bkash-secure.net
+524,smish,আপনি recent prize জিতেছেন! Claim now at http://win-tk.net
+525,smish,Prime Bank থেকে urgent notification: account block হতে পারে। Visit http://primebank-alert.net
+526,smish,আপনার DBBL account এ unusual activity detect হয়েছে। Verify now http://dbbl-check.tk
+527,smish,আপনি lottery জিতেছেন! Claim করতে code 84632 use করুন: http://win-tk.net
+528,smish,আপনার Nagad account suspend হতে পারে। Verify now http://nagad-check.tk
+529,promo,GP recharge করুন আজকে এবং extra ২৫% bonus পান। Hurry up!
+530,promo,Robi app recharge করলে ২০% extra credit। Don’t miss out!
+531,promo,Walton smartphone কিনলে gift voucher পাবেন TK 600। Order করুন আজই!
+532,promo,Big Sale: Beximco fashion এ ৩৫% discount। Shop করুন online এখনই!
+533,promo,Nagad payment করলে ১৫% cashback পাবেন। Use code: NAGAD15
+534,promo,Pathao ride এ ৩০% discount আজ। Book করুন এখনই!
+535,promo,Citycell recharge করলে ১২% extra bonus পাবেন। Don’t wait!
+536,promo,Robi combo pack মাত্র TK 400। Shop করুন এখনই!
+537,promo,Airtel postpaid user এর জন্য ২৫% discount offer চলছে। Don’t miss!
+538,promo,Walton smart appliance কিনলে gift voucher পাবেন TK 800। Order করুন আজই!
+539,promo,Nagad app payment করলে instant cashback পাবেন। Use code: CASHBACK30
+540,promo,Pathao ride এ ২৫% discount আজ। Book করুন online!
+541,promo,Citycell recharge এ ১৫% extra bonus পাবেন limited time। Don’t wait!
+542,promo,Robi app recharge করলে ২০% extra credit। Hurry up!
+543,normal,আজকে class এ আসবা তো? Let’s go together বাসা থেকে।
+544,normal,Dinner কোথায় যাব? I feel like having Chinese food আজ।

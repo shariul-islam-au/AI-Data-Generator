@@ -1,0 +1,554 @@
+id,label,text
+1,smish,URGENT: Your bKash account has been temporarily suspended. Verify immediately at: bit.ly/bkash-verify or call +8801711223344
+2,promo,Flash Sale! 50% OFF on all smartphones this weekend only. Visit TechMart Dhanmondi or call 01977665544. Limited stock!
+3,normal,Hey! Are you free this evening? Want to grab some coffee at the new place in Gulshan?
+4,smish,Congratulations! You've won 50000 BDT in our lottery. Send your NID copy to claim: lottery.winner.bd/claim
+5,promo,Grameenphone Special: 25GB + unlimited calls for only 399 TK. Valid 30 days. Dial *121*3399# now!
+6,normal,Mom called earlier. She wants to know if you're coming for dinner on Friday.
+7,smish,Your Dutch-Bangla Bank card will expire today. Update details: secure-dbbl.net/update PIN: 4829
+8,promo,Buy 2 Get 1 FREE on all cosmetics! Shwapno supermarket. Offer valid till 15th December. Hurry up!
+9,normal,Thanks for helping me with the assignment yesterday. I really appreciate it!
+10,smish,ALERT: Suspicious activity on your Rocket account. Verify now: rocket-security.com Code: RK7732
+11,promo,Foodpanda 70% discount on your first 3 orders! Use code: WELCOME70. Order now via app!
+12,normal,The weather is so nice today. Perfect for a walk in Ramna Park. Want to join?
+13,smish,Your phone will be disconnected due to unpaid bills. Pay 2350 TK immediately: telecom-pay.bd/urgent
+14,promo,New year offer! 40GB internet + 1000 minutes talk time only 299 TK. Robi users dial *123*40#
+15,normal,Happy birthday! Hope you have a wonderful day filled with joy and laughter.
+16,smish,Bank notice: Your account shows irregular transactions. Verify: trust-sonali.net/verify OTP: 8847
+17,promo,"Winter clothing sale! Up to 60% off on jackets, sweaters. Aarong stores nationwide. Limited time!"
+18,normal,Did you watch the cricket match last night? What an incredible performance by Shakib!
+19,smish,You have received a money transfer of 25000 BDT. Collect from: moneytransfer-bd.com/collect
+20,promo,iPhone 14 Pro Max available with 0% EMI! Down payment just 15000 TK. StarTech showrooms.
+21,normal,Sorry I'm running late. Traffic is terrible on Mirpur Road. Will be there in 20 minutes.
+22,smish,"Your mobile banking PIN has been changed. If not done by you, call +8801555887799 immediately"
+23,promo,Daraz 12.12 mega sale! Up to 80% discount on electronics. Free shipping on orders above 1000 TK!
+24,normal,Looking forward to our reunion tomorrow. It's been ages since we all met together.
+25,smish,Government tax refund of 15000 BDT pending. Claim at: gov-refund-bd.org Enter: NID + mobile number
+26,promo,Domino's special: Buy any large pizza get medium pizza FREE! Call 16307 or order online now.
+27,normal,Can you pick up some rice and lentils from the market? We're running low at home.
+28,smish,Your credit card limit increased to 200000 BDT. Activate: cardactivation-bd.net PIN: CC9876
+29,promo,Bata shoe festival! All footwear 40% off. Additional 10% discount with mobile banking payment!
+30,normal,Congratulations on your new job! Let's celebrate this weekend. Dinner is on me!
+31,smish,Emergency: Your mother is in hospital. Send 5000 TK for treatment: emergency-fund.bd/urgent
+32,promo,Airtel 5G network launch offer! 50GB high-speed data for 7 days only 99 TK. Don't miss!
+33,normal,The book you recommended was absolutely amazing. Do you have any other suggestions?
+34,smish,UPS delivery failed. Reschedule and pay 350 TK fee: ups-bd-delivery.com Package: BD7829473
+35,promo,Samsung Galaxy A54 with free earbuds! EMI starts from 2500 TK monthly. Visit Transcom Digital!
+36,normal,Good morning! Hope you slept well. Don't forget about our meeting at 3 PM today.
+37,smish,Your internet connection will be terminated. Clear dues 1800 TK: net-payment.bd/urgent
+38,promo,KFC bucket feast for family! 8 pieces chicken + sides just 1299 TK. Order now: 16427
+39,normal,Thank you for the lovely gift! It was such a sweet surprise. You're the best!
+40,smish,Police verification required for your SIM card. Submit documents: police-sim-verify.bd/submit
+41,promo,Bashundhara City shopping festival! Win gold jewelry with purchases above 5000 TK this weekend!
+42,normal,Are you still working late? Don't forget to have dinner. Take care of your health.
+43,smish,Your ATM card blocked due to security reasons. Unblock: secure-atm-unlock.bd/emergency
+44,promo,"Chaldal grocery delivery! Fresh vegetables, fruits delivered in 2 hours. 100 TK off on first order!"
+45,normal,The movie was fantastic! Thanks for suggesting it. We should watch more together.
+46,smish,Scholarship award of 75000 BDT approved. Accept: education-scholarship.bd/accept Code: SCH4421
+47,promo,Red Chili restaurant opening special! 50% discount on all items today and tomorrow. Don't miss!
+48,normal,Reminder: Our cousin's wedding is next week. Have you bought the gift yet?
+49,smish,"Your debit card used for online purchase 12500 BDT. If not you, report: bank-fraud.bd/report"
+50,promo,Walton refrigerator exchange offer! Get 15000 TK off on new purchase with old appliance exchange.
+51,normal,It's raining heavily outside. Better take an umbrella if you're going out.
+52,smish,COVID-19 vaccination certificate download fee 200 TK. Get yours: covid-cert-bd.org/download
+53,promo,Yellow cab flat 50% off on all rides today! Use app code: YELLOW50. Book now and save big!
+54,normal,Happy anniversary! Wishing you both many more years of happiness and love together.
+55,smish,Your land registration documents require urgent verification: land-verify-bd.gov/urgent REF: L8834
+56,promo,Square Hospital health checkup package 40% discount! Complete body checkup just 3600 TK. Book now!
+57,normal,The presentation went really well today. The client seemed very impressed with our proposal.
+58,smish,"Electricity bill payment overdue. Avoid disconnection, pay 2800 TK: power-bill.bd/urgent"
+59,promo,Pizza Hut buy 1 get 1 free on all medium pizzas! Dine-in or takeaway. Offer valid today only!
+60,normal,Don't worry about the exam results. You did your best and that's what matters most.
+61,smish,Your passport application rejected. Resubmit with 1500 TK fee: passport-resubmit.bd/urgent
+62,promo,Meena Bazar mega discount! All grocery items 25% off. Free home delivery above 2000 TK purchase!
+63,normal,The garden looks beautiful after all your hard work. Those flowers are absolutely gorgeous!
+64,smish,Bank security alert: Unauthorized login attempt. Secure account: bank-secure.bd/protect PIN: 5829
+65,promo,Singer electronics Eid special! All home appliances up to 50% off with 0% interest EMI facility!
+66,normal,Thanks for listening when I needed someone to talk to. Your friendship means everything to me.
+67,smish,Your mobile number selected for government survey. Win 20000 TK: survey-prize.bd/win Code: SV7741
+68,promo,Agora supermarket weekend special! Buy groceries worth 1500 TK get 200 TK cashback via bKash!
+69,normal,See you at the family gathering tomorrow. Mom is making everyone's favorite dishes!
+70,smish,Traffic police fine 3000 TK for violation. Pay online to avoid court: traffic-fine.bd/pay
+71,promo,Robi 4.5G unlimited internet + calls package! Only 599 TK for 30 days. Activate: *8444*599#
+72,normal,Hope your job interview went well today. Keeping my fingers crossed for good news!
+73,smish,Your digital wallet hacked. Secure immediately: wallet-security.bd/urgent Amount at risk: 45000 TK
+74,promo,Apex Footwear Eid collection! Designer shoes and sandals up to 45% discount. All showrooms open!
+75,normal,The vacation photos look amazing! Seems like you had a wonderful time at Cox's Bazar.
+76,smish,Income tax refund 8500 TK ready for collection. Claim: tax-refund-bd.gov/collect Code: TR9923
+77,promo,"Othoba.com flash sale! Electronics, fashion, home items up to 75% off. Free delivery nationwide!"
+78,normal,"Good luck with your driving test tomorrow! You've practiced enough, you'll do great."
+79,smish,Your son's school admission confirmed. Pay admission fee 25000 TK: school-admission.bd/payment
+80,promo,"Hatil furniture mega sale! Bedroom, dining, living room sets 40% discount. EMI facility available!"
+81,normal,Thank you for the delicious homemade cookies! They were absolutely perfect with tea.
+82,smish,Property tax notice: Pay 4200 TK immediately to avoid legal action: property-tax.bd/urgent
+83,promo,Banglalink 30GB internet + 500 minutes for 30 days only 399 TK! Get it now: *5000*399#
+84,normal,Congratulations on your graduation! So proud of all your hard work and achievements.
+85,smish,Your vehicle registration expired. Renew online with 1200 TK fine: vehicle-reg.bd/renew
+86,promo,CNG pump new opening! First 100 customers get 10% discount on CNG fill-up. Location: Dhanmondi 27
+87,normal,The weather forecast shows rain all week. Good thing we finished the outdoor work yesterday.
+88,smish,Bank loan approved 300000 TK. Processing fee 7500 TK required: loan-process.bd/urgent
+89,promo,Guardian Life Insurance special premium! Health insurance with 10 lakh coverage just 5000 TK yearly!
+90,normal,Thanks for the recipe! I tried making it today and it turned out absolutely delicious.
+91,smish,"Your broadband connection shows illegal downloading. Avoid disconnection, pay fine 2500 TK: isp-fine.bd"
+92,promo,"Pran RFL plastic chair and table set! Durable quality, special price 2800 TK. All showrooms available!"
+93,normal,Looking forward to our trip next month! I've already started packing in my mind.
+94,smish,"Court summons issued for unpaid loan. Avoid arrest, settle 85000 TK: court-settlement.bd/urgent"
+95,promo,Shwapno Eid special! All food items 20% discount + free home delivery on orders above 1000 TK!
+96,normal,Hope you're feeling better today. Take rest and don't worry about work for now.
+97,smish,Your email account will be closed. Verify to keep active: email-verify.bd/urgent Password: EM4478
+98,promo,Fair and Lovely skin care products 30% off! All cosmetic stores. Additional gift with purchase above 800 TK!
+99,normal,The concert was absolutely incredible! The singer's voice gave me goosebumps throughout.
+100,smish,Customs duty 6800 TK for your international package. Pay: customs-bd.gov/pay Tracking: IN7748291
+101,promo,Toyota Corolla special discount! Save 300000 TK on new purchase. Book test drive: 09639200200
+102,normal,Happy Mother's Day! You're the most wonderful mom anyone could ask for.
+103,smish,Your insurance claim of 150000 TK approved. Collect: insurance-claim.bd/collect Ref: IC8847
+104,promo,Dekko ceramic tiles mega discount! All bathroom and kitchen tiles 35% off. Free installation service!
+105,normal,Thanks for being such an amazing friend. Your support means the world to me.
+106,smish,Emergency medical fund needed for accident victim. Donate 1000 TK: emergency-medical.bd/donate
+107,promo,Fresh fish and meat home delivery! Kazi Farms Kitchen delivers in 3 hours. Order: 09666701010
+108,normal,The surprise party was perfect! Everyone had such a wonderful time celebrating with you.
+109,smish,CRITICAL: Your MTB Bank credit card compromised. Block now: mtb-security.bd/block or thieves steal funds
+110,promo,Carnival internet café gaming tournament! Win cash prizes up to 25000 TK. Registration open: 01711445566!
+111,normal,The homemade cake looks absolutely delicious! Your baking skills keep getting better every time you try.
+112,smish,Your Bitcoin wallet hacked. Secure with recovery fee 7500 TK: btc-recovery.bd/secure Wallet: BTC4829
+113,promo,Purbani Hotel wedding packages! Complete arrangements starting 150000 TK. Book hall: 02-9567788!
+114,normal,Thanks for picking up the kids from school today. Really appreciate your help during busy times.
+115,smish,Emergency tax notice: Pay arrears 32000 TK or face arrest warrant: tax-arrears.bd/urgent File: TX9847
+116,promo,Singer showroom anniversary sale! All electronics 45% off + 5 year extended warranty. Visit today!
+117,normal,Good morning! Hope you slept well after yesterday's long journey. Rest today and recover your energy.
+118,smish,Your landline disconnected for illegal international calls. Restore with penalty 4800 TK: phone-restore.bd/pay
+119,promo,Bashundhara LP Gas cylinder offer! 12kg cylinder with free burner 2200 TK. Safe cooking solution!
+120,normal,The weather is perfect for drying clothes outside. Finally some sunshine after days of rain!
+121,smish,Bank audit found irregularities in your account. Clear audit 15500 TK: bank-audit.bd/clear Account: AU8832
+122,promo,"Marico hair care products mega sale! All shampoos, oils 30% discount. Healthy hair starts today!"
+123,normal,Congratulations on your new baby! Both mother and child are healthy. Such wonderful news for the family!
+124,smish,Your mobile tower shows radiation violation. Health clearance fee 2800 TK: tower-health.bd/pay
+125,promo,Prime Bank car loan special! New car financing up to 80% loan amount. Drive your dream car!
+126,normal,Thanks for the movie recommendation! We watched it last night and loved every minute of it.
+127,smish,COVID contact tracing shows high risk. Mandatory test fee 1500 TK: covid-test.bd/mandatory
+128,promo,Karnaphuli Gas distribution connection! New gas line installation 8500 TK. Cook with clean energy!
+129,normal,Hope your mother is feeling better today. Sending prayers and positive thoughts for quick recovery.
+130,smish,Your Uber account suspended for fraudulent rides. Restore with verification 3200 TK: uber-restore.bd/verify
+131,promo,Fresh fish market Ramadan special! All sea fish 20% discount. Best quality guaranteed daily!
+132,normal,The garden looks beautiful with all the new flowers blooming. Spring has definitely arrived here!
+133,smish,Property mutation blocked due to fake documents. Clear with legal fee 28000 TK: mutation-legal.bd/urgent
+134,promo,"Rangpur Foundry iron products sale! Gates, grills, furniture 25% off. Durable and affordable!"
+135,normal,Good luck with your visa interview tomorrow! You've prepared all documents well. Everything will be fine.
+136,smish,Your smartphone infected with banking virus. Remove with security software 1800 TK: phone-security.bd/clean
+137,promo,"Golden Harvest agro products fair! Seeds, fertilizers, tools 15% discount. Boost your harvest!"
+138,normal,Thanks for the surprise visit! It was so good to see you after such a long time apart.
+139,smish,Insurance claim of 85000 TK rejected due to missing papers. Appeal fee 6500 TK: claim-appeal.bd/urgent
+140,promo,Brac Bank deposit scheme! 5 year term deposit 9% interest rate. Secure your future today!
+141,normal,The homemade biryani smells incredible! Can't wait for dinner. You're such an amazing chef always.
+142,smish,"Your electricity meter tampered illegally. Avoid legal action, pay fine 5200 TK: meter-fine.bd/pay"
+143,promo,Navana Petroleum lubricants offer! All engine oils 20% discount with free oil filter. Drive smooth!
+144,normal,Hope the job interview goes well today! You're well qualified and I'm confident you'll impress them.
+145,smish,Bank transfer of 125000 TK blocked by anti-money laundering. Clear with fee 8800 TK: aml-clear.bd/urgent
+146,promo,PHP Automobiles motorcycle fair! All bikes 15% discount + free helmet. Ride with confidence!
+147,normal,The surprise anniversary party was perfect! Everyone had such a wonderful time celebrating with you both.
+148,smish,Your son's exam results withheld for fee payment. Release with 4500 TK: exam-results.bd/release
+149,promo,Meghna Cement building materials expo! All construction supplies 18% off. Build your dreams strong!
+150,normal,Thanks for helping me with the computer problem. You saved me so much time and frustration!
+151,smish,Traffic violation camera captured your car. Pay fine 6800 TK online: camera-fine.bd/pay Violation: CAM7429
+152,promo,Square Pharmaceuticals health checkup camp! Full body screening 2500 TK. Early detection saves lives!
+153,normal,Good morning! The sunrise over the river looks absolutely breathtaking today. Nature's perfect beauty.
+154,smish,Your Facebook business page will be deleted. Save with verification fee 2200 TK: fb-business.bd/save
+155,promo,Rupali Bank home loan festival! Property financing up to 1 crore at 8% interest. Own your home!
+156,normal,The baby shower decorations look amazing! You've done such a beautiful job organizing everything perfectly.
+157,smish,Medical emergency: Your wife needs surgery. Hospital deposit 45000 TK: emergency-surgery.bd/deposit
+158,promo,"City Group job fair! 1000+ positions in textile, pharmacy, banking. Apply: citygroup-jobs.bd!"
+159,normal,Hope you're enjoying your vacation in Chittagong! The Hill Tracts must look stunning this season.
+160,smish,Your land record shows ownership dispute. Legal settlement 65000 TK: land-dispute.bd/settle
+161,promo,Bashundhara Tissue paper factory outlet! All tissue products 35% discount. Hygiene at affordable prices!
+162,normal,Thanks for the delicious homemade sweets! They were perfectly made and brought back childhood memories.
+163,smish,Police case registered against your vehicle. Settlement fee 9500 TK: police-settlement.bd/urgent Case: PS8847
+164,promo,Confidence Group apartments in Bashundhara! 3 bedroom ready flats starting 95 lakh. Book with 5% down!
+165,normal,Congratulations on your son's graduation! Such a proud moment for the whole family. Well deserved success!
+166,smish,Your internet service shows copyright violation. Legal fee 7200 TK to avoid prosecution: copyright-fine.bd/pay
+167,promo,"Fresh Valley dairy products! Pure milk, butter, cheese home delivery. Order: 01711334455 for freshness!"
+168,normal,The morning walk was refreshing! Perfect weather and great company. Let's make this a regular habit.
+169,smish,Bank loan defaulter list published. Remove your name with clearance fee 18500 TK: defaulter-clear.bd/urgent
+170,promo,Olympic Industries biscuit factory sale! All varieties 30% discount. Perfect snacks for every occasion!
+171,normal,Thanks for taking care of the house while we were away. Everything looks perfect as always!
+172,smish,Your mobile banking transaction flagged as suspicious. Clear with investigation fee 4200 TK: suspicious-clear.bd/urgent
+173,promo,Green Delta Life Insurance special! Family protection 10 lakh coverage just 12000 TK annually!
+174,normal,Hope your medical test results come back normal. I'm sure everything will be fine. Stay positive!
+175,smish,Immigration office requires additional documents for visa. Processing fee 8500 TK: visa-process.bd/urgent
+176,promo,Akij Group cement discount! All grades 12% off with free home delivery. Quality construction guaranteed!
+177,normal,The homemade dinner was absolutely delicious! You're becoming such an expert cook. Recipe please share!
+178,smish,Your son arrested for traffic violation. Bail amount 25000 TK immediately: traffic-bail.bd/urgent
+179,promo,Standard Chartered priority banking! Exclusive services for deposits above 10 lakh. Apply: 16203!
+180,normal,Good luck with your presentation tomorrow! You've worked hard and I know you'll do excellently.
+181,smish,Healthcare insurance premium increased. Pay extra 6800 TK or lose coverage: health-premium.bd/pay
+182,promo,"Partex Star Technologies computer fair! Laptops, desktops 25% off with 3 year warranty. Tech solutions!"
+183,normal,Thanks for the thoughtful birthday gift! It's exactly what I wanted. You know me so well always.
+184,smish,Your driving license points exceeded limit. Restore with penalty 5500 TK: license-points.bd/restore
+185,promo,Purbani Group ready-made garments factory outlet! Designer clothes 40% discount. Fashion at low prices!
+186,normal,The surprise farewell gathering was touching! Everyone will miss you greatly. Keep in touch always.
+187,smish,Bank security audit failed. Account will close unless you pay audit fee 12500 TK: security-audit.bd/urgent
+188,promo,Dutch-Bangla Bank education loan! Study abroad financing up to 25 lakh. Fulfill your academic dreams!
+189,normal,Hope the weather improves for the weekend picnic. The forecast looks promising with clear skies ahead.
+190,smish,Your property tax assessment increased dramatically. Appeal with fee 15000 TK: tax-appeal.bd/urgent
+191,promo,"Singer Plus home appliances rental! Refrigerator, TV, AC monthly rental starting 2500 TK. No down payment!"
+192,normal,The book club discussion was fascinating! Great insights about the novel. Looking forward to next meeting.
+193,smish,Medicare bill overdue 35000 TK for treatment. Patient discharge blocked: medicare-bill.bd/urgent
+194,promo,Confidence Cement ready-mix concrete! All grades available with on-time delivery. Strong foundations guaranteed!
+195,normal,Thanks for the amazing vacation photos! The sunset shots are absolutely breathtaking. Professional quality work!
+196,smish,Your Bitcoin mining account shows irregularities. Verify with fee 9800 TK: mining-verify.bd/urgent
+197,promo,Fresh supermarket organic food festival! All organic products 25% discount. Healthy living starts here!
+198,normal,Good morning! The morning breeze feels wonderful today. Perfect weather for our planned garden work.
+199,smish,Traffic police fine 8200 TK for signal violation. Pay online immediately: signal-fine.bd/urgent
+200,promo,"Meghna Group petrochemical products sale! Industrial chemicals, lubricants 20% discount. Quality assured!"
+201,normal,Congratulations on your new house! It looks beautiful and spacious. Perfect for your growing family!
+202,smish,Your email storage exceeded limit. Upgrade with payment 2800 TK: email-storage.bd/upgrade
+203,promo,Bangladesh Machine Tools factory outlet! Industrial equipment 30% discount. Productivity solutions available!
+204,normal,Hope your mother's surgery went well today. Sending prayers and positive thoughts for speedy recovery.
+205,smish,Land registration office requires bribe 22000 TK for quick processing: land-bribe.bd/urgent
+206,promo,City Bank SME business loan! Small business financing up to 2 crore at competitive rates!
+207,normal,The homemade pizza last night was incredible! Perfect crust and toppings. You should teach cooking classes!
+208,smish,Your cryptocurrency wallet frozen by authorities. Unfreeze with compliance fee 11500 TK: crypto-compliance.bd/urgent
+209,promo,"Square Toiletries beauty products sale! All skincare items 35% off. Look beautiful, feel confident!"
+210,normal,Thanks for being such a reliable friend through good times and bad. Your friendship means everything!
+211,smish,Hospital emergency bill 68000 TK for accident treatment. Pay immediately: hospital-emergency.bd/bill
+212,promo,Bashundhara Group shopping festival! All retail outlets 50% discount weekend. Shop till you drop!
+213,normal,The morning jog felt great today! Thanks for motivating me to maintain healthy exercise habits regularly.
+214,smish,Your mobile number linked to terrorism activities. Clear record with 14500 TK: terror-clear.bd/urgent
+215,promo,Prime Bank fixed deposit special! 5 year term 10% interest rate guaranteed. Secure financial future!
+216,normal,Hope your exam results are excellent tomorrow! You studied hard and deserve success. Fingers crossed!
+217,smish,Property ownership documents require urgent verification. Fee 18000 TK: property-verify.bd/urgent
+218,promo,"Golden Harvest food products fair! Rice, oil, spices 22% discount. Quality nutrition for families!"
+219,normal,The surprise birthday celebration was perfect! Everyone loved the decorations and cake. Great job organizing!
+220,smish,WARNING: Your IFIC Bank account locked due to suspicious activity. Unlock now: ific-unlock.bd/urgent Code: IF8832
+221,promo,Bikroy.com weekend sale! All electronics 60% off + free delivery. Shop now with code: WEEKEND60!
+222,normal,How was your first day at the new office? Hope everything went smoothly and you liked the team.
+223,smish,Your Nagad wallet PIN compromised. Change immediately: nagad-security.bd/reset or lose 85000 TK balance
+224,promo,Pathao ride discount 40% for new users! Use code: NEW40. Download app and start saving today!
+225,normal,The homemade biryani smells amazing! Can't wait to taste it. You're such a great cook.
+226,smish,URGENT: Your NID card expired. Renew online with 800 TK fee: nid-renewal-bd.gov/urgent REF: NID7429
+227,promo,Lotto food court grand opening! All items buy 1 get 1 free today only. Bashundhara City mall!
+228,normal,Thanks for the book recommendation! I finished it last night and loved every page of it.
+229,smish,Your Islami Bank Sharia account violated banking rules. Pay penalty 4500 TK: sharia-penalty.bd/pay
+230,promo,Gazi Tyres special offer! All car tyres 25% discount with free wheel alignment. Call 01711998877!
+231,normal,Good morning! The sunrise looks beautiful today. Perfect weather for our morning walk together.
+232,smish,Facebook account hacked. Secure now or lose all data: fb-security.bd/protect Password: FB9847
+233,promo,"Eid fashion collection at Rang! Designer clothes 50% off. Visit Gulshan, Dhanmondi, Uttara showrooms!"
+234,normal,"Happy Eid Mubarak! May this blessed occasion bring joy, peace and prosperity to your family."
+235,smish,Your son arrested for drug possession. Pay bail 150000 TK immediately: police-bail.bd/urgent
+236,promo,Uber Eats free delivery on all orders above 500 TK! Use code: FREEDEL. Order your favorite food now!
+237,normal,The weather is perfect for a picnic. Should we plan something for this weekend at Suhrawardy Park?
+238,smish,Electricity meter reading shows illegal usage. Pay fine 3200 TK: electric-fine.bd/urgent Meter: EM4493
+239,promo,Fresh supermarket organic vegetable sale! All fresh produce 30% discount. Healthy eating starts today!
+240,normal,Congratulations on your engagement! So happy for both of you. When is the wedding planned?
+241,smish,Your Gmail storage full. Upgrade now or lose emails: gmail-storage.bd/upgrade Payment: 1200 TK
+242,promo,City Bank credit card special! 0% interest for 12 months on all purchases. Apply today: 16234!
+243,normal,Thanks for helping me move yesterday. Couldn't have done it without your support and friendship.
+244,smish,COVID-19 fine 5000 TK for not wearing mask. Pay online: covid-fine.bd/pay Citation: CV8832
+245,promo,AC servicing special offer! Clean and gas refill just 2500 TK. Call 01977334455 for booking!
+246,normal,The movie was hilarious! Thanks for suggesting it. We should have more movie nights like this.
+247,smish,Your vehicle insurance expired. Immediate renewal required 8500 TK: auto-insurance.bd/urgent
+248,promo,Polar ice cream factory outlet sale! All flavors 40% discount. Family packs available. Don't miss!
+249,normal,Hope your medical checkup goes well tomorrow. I'm sure everything will be fine. Take care!
+250,smish,Bank transfer of 75000 TK failed. Retry with processing fee 2800 TK: transfer-retry.bd/urgent
+251,promo,Computer Source laptop expo! Gaming laptops starting 55000 TK with warranty. Gulshan showroom open!
+252,normal,The garden party was wonderful! Everyone enjoyed the food and decorations. Great job organizing!
+253,smish,Your broadband bill overdue 2200 TK. Disconnection in 2 hours: internet-bill.bd/urgent Pay now!
+254,promo,Standard Chartered personal loan approved! Get up to 15 lakh at 12% interest. Apply: 16203!
+255,normal,Good luck with your presentation today! You've prepared well and I know you'll do amazing.
+256,smish,Income tax audit notice. Appear with documents or pay 25000 TK: tax-audit.bd/urgent File: TX7429
+257,promo,"Brac Bank home loan special! 8.5% interest rate, 25 year tenure. Own your dream home today!"
+258,normal,Thanks for the surprise birthday cake! It was such a sweet gesture. You made my day special.
+259,smish,Your mobile SIM will be blocked for security reasons. Verify: sim-security.bd/verify Code: SM8394
+260,promo,"Kazi Food Industries job fair! 500+ vacancies in production, admin, sales. Apply now: 01711887766!"
+261,normal,The presentation went really well! The team was impressed with our proposal and gave positive feedback.
+262,smish,Emergency: Your father hospitalized. Medical bills 35000 TK needed: hospital-emergency.bd/urgent
+263,promo,Navana Real Estate apartment booking! 2% discount on booking amount. Dream home in Gulshan available!
+264,normal,Hope you're enjoying your vacation in Sylhet! The tea gardens must look absolutely breathtaking right now.
+265,smish,Your Rocket account shows unauthorized transaction 18000 TK. Report: rocket-fraud.bd/report immediately
+266,promo,Singer Plus membership! Exclusive discounts on home appliances all year. Join for just 500 TK annually!
+267,normal,Thanks for the delicious lunch! The fish curry was perfectly spiced. Please share the recipe with me.
+268,smish,Police verification failed for passport. Resubmit with 1800 TK: police-passport.bd/resubmit
+269,promo,"Dekko Isho steel furniture! Office chairs, tables 35% discount. Ergonomic design, 5 year warranty!"
+270,normal,The cricket match was thrilling! Bangladesh played exceptionally well. What a fantastic victory celebration!
+271,smish,Your land ownership disputed. Legal fee 45000 TK to retain property: land-legal.bd/urgent REF: LD8847
+272,promo,Ifad Autos Suzuki car fair! All models 10% discount with 5 year warranty. Test drive available!
+273,normal,Good morning! Don't forget about our lunch meeting at 1 PM. Looking forward to catching up.
+274,smish,Bank loan EMI overdue. Credit score affected. Clear 12500 TK: loan-recovery.bd/urgent
+275,promo,"Partex furniture Eid special! Bedroom sets starting 35000 TK. Visit Elephant Road, New Market showrooms!"
+276,normal,The homemade sweets were delicious! Grandma's recipe always brings back such wonderful childhood memories.
+277,smish,Your email hacked by criminals. Secure with verification fee 900 TK: email-secure.bd/protect
+278,promo,Easy Bike ride sharing! First 10 rides free for new users. Download app and explore the city!
+279,normal,Congratulations on your promotion! Well deserved after all your hard work. Let's celebrate this weekend!
+280,smish,Court order: Property seizure notice. Pay 95000 TK to stop: court-property.bd/urgent Case: CP4829
+281,promo,"Steel Re-Rolling Mills job opportunity! Engineers, operators needed. Salary up to 45000 TK. Apply now!"
+282,normal,The weather forecast shows thunderstorms. Better cancel the outdoor barbecue and plan something indoors instead.
+283,smish,Your mobile banking limit exceeded illegally. Normalize with 3500 TK fee: banking-limit.bd/urgent
+284,promo,"Apex Tannery leather goods exhibition! Shoes, bags, wallets up to 45% discount. Dhaka Trade Center!"
+285,normal,Thanks for taking care of my plants while I was away. They look healthier than before!
+286,smish,Traffic police case filed against you. Settle 8000 TK fine: traffic-court.bd/settle Violation: TR7394
+287,promo,"Bangladesh Textile Mills fabric sale! Premium cotton, silk fabrics 30% off. Wholesale prices available!"
+288,normal,Happy anniversary to both of you! May your love story continue to inspire everyone around you.
+289,smish,"Your internet shows piracy activity. Avoid legal action, pay 6500 TK: piracy-fine.bd/urgent"
+290,promo,Green Delta Insurance health policy! Family coverage 5 lakh at 8000 TK annually. Secure your future!
+291,normal,The surprise farewell party was perfect! Everyone will miss you. Stay in touch and visit often.
+292,smish,Bank security breach detected. Protect account with 1500 TK security fee: bank-protect.bd/urgent
+293,promo,Bashundhara Paper Mills office supplies sale! All stationery items 25% discount. Bulk orders welcome!
+294,normal,Good luck with your exam tomorrow! You've studied hard and I'm confident you'll do excellently.
+295,smish,Your passport seized at airport. Release fee 35000 TK required: airport-release.bd/urgent
+296,promo,Confidence Cement building materials expo! All construction items 20% discount with free delivery service!
+297,normal,The homemade pizza was incredible! Perfect crust and toppings. You should open a restaurant someday.
+298,smish,Medicare hospital bill unpaid. Patient discharge blocked. Pay 28000 TK: hospital-bill.bd/urgent
+299,promo,"Akij Food beverage factory outlet! Soft drinks, snacks 40% off. Perfect for parties and events!"
+300,normal,Thanks for the thoughtful gift! It's exactly what I needed. You always know how to make me happy.
+301,smish,Your driving license suspended. Reinstate with 4200 TK penalty: license-reinstate.bd/urgent
+302,promo,Banglalink 5G router offer! High speed unlimited internet 30 days just 799 TK. Order: *5000*799#
+303,normal,The morning jog felt refreshing! Thanks for motivating me to start exercising regularly. Feeling great already!
+304,smish,Facebook lottery winner! You won 250000 BDT. Claim fee 8500 TK: fb-lottery.bd/claim Winner: FL8832
+305,promo,PHP Family restaurant buffet! Unlimited Bengali cuisine 599 TK per person. Book table: 01711223344!
+306,normal,Hope your job interview went well today! I'm sure they were impressed with your skills and experience.
+307,smish,Your mobile number traced in criminal activity. Clear name with 15000 TK: police-clear.bd/urgent
+308,promo,"Olympic Industries cake factory sale! Wedding cakes, birthday cakes 30% discount. Order: 01977665544!"
+309,normal,The book club meeting was fantastic! Great discussion about the novel. Can't wait for next month's selection.
+310,smish,Bank ATM card cloned. Block immediately or lose money: atm-block.bd/urgent Amount at risk: 125000 TK
+311,promo,Masco Group job circular! Management trainee positions available. Salary 50000 TK. Apply: mascojobs.bd!
+312,normal,Thanks for the wonderful dinner invitation! The food was delicious and the company was even better.
+313,smish,"Your tax file under investigation. Avoid penalties, pay 18000 TK: tax-investigation.bd/urgent"
+314,promo,City Bank student loan! Education financing up to 10 lakh at 6% interest. Apply with minimal documents!
+315,normal,Good morning! The sunrise over Dhanmondi Lake looks absolutely stunning today. Nature's perfect artwork.
+316,smish,Emergency medical insurance claim rejected. Appeal with 5500 TK: medical-appeal.bd/urgent Claim: MI4829
+317,promo,Shanta Holdings apartment fair! 3 bedroom flats in Uttara starting 85 lakh. Book now with 5% discount!
+318,normal,Congratulations on completing your PhD! Dr. Rahman sounds perfect. So proud of your academic achievement!
+319,smish,Your son's university admission canceled. Restore with donation 75000 TK: admission-restore.bd/urgent
+320,promo,Dutch-Bangla Bank SME loan! Small business funding up to 50 lakh at competitive rates. Apply today!
+321,normal,The family reunion was amazing! So good to see everyone after such a long time. Great memories made.
+322,smish,Customs duty 12000 TK for your international shipment. Pay: customs-duty.bd/pay Tracking: CS8847493
+323,promo,"Samsung Plaza Eid electronics fair! Mobile, TV, refrigerator up to 50% off. EMI facility available!"
+324,normal,Thanks for the amazing vacation photos! Looks like you had an incredible time in the Maldives. So jealous!
+325,smish,Your property ownership documents forged. Authenticate with 22000 TK: property-auth.bd/urgent
+326,promo,Meghna Group cement discount! All construction cement 15% off with free transportation. Build your dreams!
+327,normal,Hope you're recovering well from the surgery. Take plenty of rest and don't worry about anything else.
+328,smish,Bank manager requests urgent meeting. Bring 35000 TK cash: bank-meeting.bd/urgent Manager: Rashid Ahmed
+329,promo,"Pran Dairy milk products home delivery! Fresh milk, yogurt, cheese delivered daily. Call 16456 now!"
+330,normal,The surprise baby shower was perfect! Everyone loved the decorations and games. Can't wait to meet the little one!
+331,smish,Your Bitcoin investment matured. Withdraw 185000 BDT with processing fee 9500 TK: crypto-withdraw.bd/claim
+332,promo,Walton Plaza grand opening! All home appliances 40% discount + 3 year warranty. Inaugurated by celebrity!
+333,normal,Thanks for being such a supportive friend during tough times. Your encouragement means everything to me always.
+334,smish,Your AB Bank savings account frozen due to security breach. Unfreeze with fee 23847 TK: secure-bd.bd/urgent
+335,smish,URGENT: electricity bill overdue 15632 TK. Disconnection in 24 hours: urgent-gov.org/pay
+336,smish,Your mother hospitalized emergency. Medical fee 37294 TK needed: emergency-bd.com/urgent
+337,smish,Government tax office fine 8456 TK for tax evasion. Pay: secure-bank.bd/urgent
+338,smish,Your property ownership disputed. Legal fee 42183 TK: urgent-bd.org/pay
+339,smish,Security breach in WhatsApp account. Fix with 19274 TK: emergency-gov.bd/verify
+340,smish,Court summons issued. Settle 28495 TK to avoid arrest: secure-gov.com/urgent
+341,smish,Tax audit penalty 31826 TK due immediately: urgent-bd.bd/urgent
+342,smish,Your passport expired/invalid. Renewal fee 7639 TK: emergency-bank.org/pay
+343,smish,Police case filed against you. Settlement 16482 TK: secure-bd.com/verify
+344,smish,Insurance claim rejected. Appeal fee 21758 TK: urgent-gov.bd/urgent
+345,smish,Your Prime Bank savings account frozen due to unauthorized access. Unfreeze with fee 34917 TK: emergency-bank.bd/pay
+346,smish,URGENT: gas bill overdue 9283 TK. Disconnection in 2 hours: secure-bd.org/verify
+347,smish,Your father hospitalized emergency. Medical fee 45672 TK needed: urgent-gov.com/urgent
+348,smish,Government customs fine 12594 TK for illegal activity. Pay: emergency-bd.bd/pay
+349,smish,Your land ownership disputed. Legal fee 28376 TK: secure-gov.org/urgent
+350,smish,Security breach in Gmail account. Fix with 14829 TK: urgent-bank.com/verify
+351,smish,Court summons issued. Settle 36451 TK to avoid arrest: emergency-bd.org/pay
+352,smish,Tax audit penalty 22738 TK due immediately: secure-bd.bd/urgent
+353,smish,Your NID expired/invalid. Renewal fee 5947 TK: urgent-gov.bd/verify
+354,smish,Police case filed against you. Settlement 18263 TK: emergency-bank.org/urgent
+355,smish,Insurance claim rejected. Appeal fee 31584 TK: secure-bd.com/pay
+356,smish,Your Eastern Bank savings account frozen due to suspicious activity. Unfreeze with fee 27139 TK: urgent-bd.org/verify
+357,smish,URGENT: water bill overdue 11756 TK. Disconnection in today: emergency-gov.bd/urgent
+358,smish,Your brother hospitalized emergency. Medical fee 39428 TK needed: secure-bank.com/pay
+359,smish,Government police fine 6872 TK for traffic violation. Pay: urgent-bd.bd/urgent
+360,smish,Your vehicle ownership disputed. Legal fee 33695 TK: emergency-gov.org/verify
+361,smish,Security breach in Facebook account. Fix with 16241 TK: secure-bd.bd/pay
+362,smish,Court summons issued. Settle 24817 TK to avoid arrest: urgent-bank.org/urgent
+363,smish,Tax audit penalty 29362 TK due immediately: emergency-bd.com/verify
+364,smish,Your driving license expired/invalid. Renewal fee 8954 TK: secure-gov.bd/pay
+365,smish,Police case filed against you. Settlement 19687 TK: urgent-bd.org/urgent
+366,smish,Insurance claim rejected. Appeal fee 26473 TK: emergency-bank.bd/verify
+367,smish,Your Mercantile Bank savings account frozen due to security breach. Unfreeze with fee 41258 TK: secure-bd.com/urgent
+368,promo,Beximco smartphones special offer! 45% off + free delivery. Visit showroom!
+369,promo,BRAC Bank credit card launched! 0% interest at only 4567 TK. Apply today!
+370,promo,Kacchi Bhai grand opening! 50% off all items. Gulshan. Book now: 01734829576!
+371,promo,Aarong Eid sale! All clothing up to 60% discount. Limited time!
+372,promo,New credit card available! instant approval starting 2893 TK. Call 01756284193!
+373,promo,Beximco job fair! 267 positions available. Salary up to 35000 TK!
+374,promo,Walton factory outlet! electronics 35% off. Dhanmondi showroom!
+375,promo,credit card membership offer! Annual fee only 1847 TK. Benefits: discounts!
+376,promo,ACI spring collection! furniture starting 6729 TK. Visit today!
+377,promo,Dutch-Bangla loan special! Up to 8 lakh at 12% interest. Apply now!
+378,promo,Square appliances special offer! 55% off + warranty. Call now!
+379,promo,Islami Bank personal loan launched! minimal documents at only 7394 TK. Visit branch!
+380,promo,Sultan Dines grand opening! buy 1 get 1 free. Uttara. Book now: 01762948371!
+381,promo,Kay Kraft winter sale! All shoes up to 25% discount. This weekend only!
+382,promo,New personal loan available! 0% interest starting 3528 TK. Call 01784629517!
+383,promo,Bashundhara job fair! 156 positions available. Salary up to 42000 TK!
+384,promo,Singer factory outlet! furniture 50% off. Banani showroom!
+385,promo,home loan membership offer! Annual fee only 8962 TK. Benefits: free services!
+386,promo,Akij summer collection! appliances starting 4173 TK. Visit today!
+387,promo,Janata Bank loan special! Up to 12 lakh at 9% interest. Apply now!
+388,promo,City Group clothing special offer! 30% off + gift. Order online!
+389,promo,Rupali Bank car loan launched! instant approval at only 5846 TK. Call now!
+390,promo,Handi grand opening! buffet 599 TK. Gulshan. Book now: 01798352641!
+391,promo,Ecstasy anniversary sale! All bags up to 40% discount. Today only!
+392,promo,New home loan available! minimal documents starting 6217 TK. Call 01715483926!
+393,promo,Square job fair! 389 positions available. Salary up to 28000 TK!
+394,promo,Vision factory outlet! appliances 45% off. Uttara showroom!
+395,promo,car loan membership offer! Annual fee only 2753 TK. Benefits: priority support!
+396,promo,ACI furniture special offer! 65% off + cashback. Visit showroom!
+397,promo,Dutch-Bangla home loan launched! 0% interest at only 4829 TK. Apply today!
+398,promo,Star Kabab grand opening! 50% off all items. Banani. Book now: 01739584672!
+399,promo,Yellow summer sale! All accessories up to 35% discount. Limited time!
+400,normal,Good morning! How did you sleep last night? Hope today brings you joy and success.
+401,normal,Thanks for the delicious dinner yesterday! The fish curry was perfectly spiced and aromatic.
+402,normal,Congratulations on your new job! Well deserved after all your hard work and dedication.
+403,normal,Hope your exam went well today. I'm sure you did great with all that preparation.
+404,normal,The weather is beautiful today. Perfect for our planned visit to the botanical garden.
+405,normal,Thanks for helping me move furniture yesterday. Couldn't have managed without your support.
+406,normal,"Happy birthday! May this new year bring happiness, health and prosperity to your life."
+407,normal,The book you recommended was fantastic! Do you have any other similar suggestions for me?
+408,normal,Good luck with your presentation tomorrow. You're well prepared and will definitely impress them.
+409,normal,Thanks for picking up groceries on your way home. Really appreciate your thoughtfulness always.
+410,normal,Hope your mother is feeling better today. Sending positive thoughts and prayers for recovery.
+411,normal,The surprise party was amazing! Everyone had such a wonderful time celebrating with you.
+412,normal,Looking forward to our weekend trip to Sylhet. The tea gardens will look beautiful now.
+413,normal,Thanks for the homemade sweets! They were delicious and reminded me of grandmother's recipes.
+414,normal,Good morning! Don't forget about our lunch meeting at 2 PM today at the usual place.
+415,normal,The movie last night was incredible! Thanks for the great recommendation and company.
+416,normal,Hope your visa interview goes smoothly tomorrow. You have all documents ready perfectly.
+417,normal,Thanks for listening when I needed someone to talk to. Your friendship means everything.
+418,normal,The garden looks beautiful with all the new flowers blooming everywhere. Spring is here!
+419,normal,Congratulations on your graduation! Such a proud moment for you and the entire family.
+420,normal,Hope the medical checkup results are all normal. I'm sure everything will be fine.
+421,normal,Thanks for the thoughtful birthday gift! It's exactly what I needed and wanted.
+422,normal,The homemade biryani smells incredible from here! Can't wait for dinner tonight.
+423,normal,Good luck with your job interview today! You're qualified and will do excellently.
+424,normal,Hope you're enjoying your vacation in Cox's Bazar! The beach must look stunning.
+425,normal,Thanks for taking care of the plants while I was away. They look healthier than before!
+426,normal,The morning walk was refreshing! Perfect weather and great company as always.
+427,normal,Hope your son's school admission process goes smoothly. He's a bright student.
+428,normal,Thanks for the amazing wedding photos! You captured all the beautiful moments perfectly.
+429,normal,Good morning! The sunrise over Dhanmondi Lake looks absolutely breathtaking today.
+430,normal,Hope your father's surgery went well yesterday. Keeping him in thoughts and prayers.
+431,normal,The homemade cake was delicious! Your baking skills improve with every attempt.
+432,normal,Thanks for the ride to the airport yesterday. Really saved me time and hassle.
+433,normal,Looking forward to our family reunion next week. It's been ages since we all met!
+434,smish,Your DBBL account has been compromised. Verify immediately: bit.ly/dbbl-secure or call +8801999887766
+435,promo,Flash Sale! 50% off on all electronics at Daraz. Use code FLASH50. Valid till midnight!
+436,normal,"Hey, what's up? Haven't seen you in ages. How's everything going?"
+437,smish,Urgent: Your bKash account will be blocked in 2 hours. Confirm PIN here: tinyurl.com/bkash-verify
+438,promo,Grameenphone users! Get 20GB data for just 199TK. Dial *121*3020# now!
+439,normal,Did you finish the assignment? I'm struggling with the last question.
+440,smish,"Congratulations! You've won 50,000TK lottery. Claim now: lottery-bd.com/claim with code LT7839"
+441,promo,Buy 2 get 1 free on all Kazi Nazrul items at Aarong this weekend only!
+442,normal,"Mom, I'll be late for dinner tonight. Meeting is running longer than expected."
+443,smish,Your Dutch Bangla Bank card is blocked. Reactivate: dutchbangla-help.net or call 01777-123456
+444,promo,Robi customers enjoy 30 days unlimited internet at 399TK! Limited time offer.
+445,normal,"Thanks for helping me move yesterday. Really appreciate it, brother!"
+446,smish,Alert: Suspicious login detected on your Rocket account. Secure it: rocket-bd.info/login
+447,promo,Pathao Food: Order now and get 40% discount with free delivery!
+448,normal,Can you pick up some rice from the market on your way home?
+449,smish,Your AB Bank account needs verification. Click: abbank-secure.com within 1 hour
+450,promo,Chaldal delivers fresh vegetables to your door. 200TK off on first order!
+451,normal,Happy birthday! Hope you have a wonderful day filled with joy.
+452,smish,Bitcoin investment opportunity! Double your money in 48 hours: crypto-bd.net
+453,promo,"Samsung Galaxy phones starting from 15,000TK at Electronics Bazar!"
+454,normal,The weather is so nice today. Perfect for a walk in Ramna Park.
+455,smish,Your Nagad wallet requires immediate update. Visit: nagad-update.org/verify
+456,promo,Airtel users get 15GB data + unlimited calls for 299TK. Dial *121*4040#
+457,normal,I'm thinking of going to Cox's Bazar next month. Want to join?
+458,smish,Bank Asia urgent notice: Complete KYC or account suspended. Link: bankasia-kyc.net
+459,promo,Foodpanda weekend special: Buy 1 get 1 free on all pizzas!
+460,normal,Good morning! How did your job interview go yesterday?
+461,smish,Your Islamic Bank account shows unusual activity. Verify: islamibank-help.com immediately
+462,promo,New Balance shoes up to 60% off at Bata stores nationwide!
+463,normal,Can you believe it's already December? This year went by so fast.
+464,smish,"Urgent SOS: Your City Bank credit card charged 25,000TK. Dispute: citybank-dispute.net"
+465,promo,Uber rides 50% cheaper this Friday! Use code FRIDAY50 for savings.
+466,normal,Thanks for the delicious biryani recipe. My family loved it!
+467,smish,Your Trust Bank debit card expires today. Renew: trustbank-renew.org or lose access
+468,promo,Gentle Park shopping mall grand opening! 70% discounts on everything!
+469,normal,Are you free this weekend? Let's catch up over tea.
+470,smish,IFIC Bank security alert: Account compromised. Act now: ificbank-security.net/urgent
+471,promo,Banglalink offers 25GB at 250TK for 30 days. Don't miss out!
+472,normal,The new restaurant near our office serves amazing kababs.
+473,smish,"Your Mercantile Bank loan approved for 500,000TK. Claim: mercantilebank-loan.com"
+474,promo,"Ajkerdeal mega sale: Electronics, clothing, home items up to 80% off!"
+475,normal,Congratulations on your promotion! You really deserved it.
+476,smish,PayPal Bangladesh: Unusual activity detected. Secure account: paypal-bd.info/secure
+477,promo,Yellow Taxi app users get 30% off on all rides this month!
+478,normal,I'm cooking fish curry tonight. Would you like to join for dinner?
+479,smish,Your Sonali Bank internet banking suspended. Reactivate: sonalibank-online.net now
+480,promo,"Walton refrigerators starting 18,000TK with 5 years warranty!"
+481,normal,The concert last night was incredible. You should have come!
+482,smish,Critical: Your Standard Bank account frozen due to suspicious transactions. Fix: standardbank-fix.org
+483,promo,Othoba.com fashion week: Designer clothes 40-70% off till Sunday!
+484,normal,Did you see the news about the new metro rail? Exciting times!
+485,smish,"Your Prime Bank credit limit increased to 100,000TK. Activate: primebank-credit.net"
+486,promo,KFC Tuesday offer: 2 pieces chicken + fries + drink only 299TK!
+487,normal,I finished reading that book you recommended. Absolutely loved it!
+488,smish,Immediate action required: Your UCB account hacked. Recover: ucb-recovery.com/help
+489,promo,Star Kabab special combo meals starting 150TK. Dine-in and takeaway!
+490,normal,The traffic was horrible today. Took me 2 hours to reach home.
+491,smish,Your NCC Bank debit card cloned. Report fraud: nccbank-fraud.org urgently
+492,promo,"Pickaboo electronics festival: Smartphones, laptops massive discounts!"
+493,normal,"Sister, can you help me with my math homework after school?"
+494,smish,Southeast Bank warning: Account will close in 3 hours. Prevent: southeastbank-save.net
+495,promo,Burger King flame grilled burgers buy 1 get 1 free today only!
+496,normal,I'm planning to learn French next year. Any recommendations for classes?
+497,smish,Your Mutual Trust Bank fixed deposit matured. Withdraw: mutualtrust-fd.com/withdraw
+498,promo,Daraz 11.11 sale: Up to 90% off + free shipping on everything!
+499,normal,The movie we watched yesterday was really thought-provoking.
+500,smish,Critical security breach at your BASIC Bank account. Act: basicbank-security.net
+501,promo,Pizza Hut family feast: Large pizza + garlic bread + drinks 899TK!
+502,normal,Remember to water the plants while I'm away for the weekend.
+503,smish,"Your Exim Bank loan payment overdue by 50,000TK. Settle: eximbank-payment.org"
+504,promo,"Apex shoes Eid collection: Formal, casual, sports shoes 30% discount!"
+505,normal,I'm so excited about the cricket match tonight. Bangladesh vs India!
+506,smish,Your Jamuna Bank account requires tax clearance certificate. Submit: jamunabank-tax.net
+507,promo,"Shadhinata Complex winter clothing sale: Jackets, sweaters, coats 50% off!"
+508,normal,The wedding ceremony was beautiful. Thank you for inviting me.
+509,smish,Your Community Bank ATM card skimmed at Gulshan. Report: communitybank-report.com
+510,pramo,Teletalk prepaid users recharge 100TK get 200TK bonus talk time!
+511,normal,I bought some fresh hilsa fish from Kawran Bazar this morning.
+512,smish,Your One Bank mobile banking PIN compromised. Reset: onebank-reset.org immediately
+513,promo,McDonald's McAloo Tikki burger combo meal just 249TK this week!
+514,normal,The sunrise from our rooftop was absolutely breathtaking today.
+515,smish,Your Al-Arafah Bank Hajj savings account suspended. Reactivate: alarafah-hajj.net
+516,promo,Richman ice cream factory outlet: Premium ice cream 40% off!
+517,normal,I'm learning to play the guitar. It's more difficult than I expected.
+518,smish,"Your Pubali Bank student loan approved for 200,000TK. Claim: pubalibank-loan.com"
+519,promo,Ecstasy entertainment complex: Movie tickets 150TK for all shows!
+520,normal,Thanks for listening to me vent about work problems yesterday.
+521,smish,Your Midland Bank foreign remittance on hold. Release: midlandbank-remit.net
+522,promo,"Transcom Digital phone accessories mega sale: Cases, chargers, earphones!"
+523,normal,I'm thinking of adopting a cat from the animal shelter.
+524,smish,Your Farmers Bank crop insurance claim ready. Process: farmersbank-claim.org
+525,promo,"Shwapno supermarket weekend bonanza: Groceries, household items 25% off!"
+526,normal,The new coffee shop near the university has excellent cappuccino.
+527,smish,Your Social Investment Bank micro-credit payment due. Pay: socialbank-payment.net
+528,promo,"Nitol Motors motorcycle showroom: Honda, Yamaha bikes special financing!"
+529,normal,I can't believe how quickly the kids are growing up these days.
+530,smish,Your Bangladesh Commerce Bank export LC expired. Renew: bcb-export.com urgent
+531,promo,Olympia shopping mall anniversary sale: All brands 30-60% discounts!
+532,normal,The book fair at Bangla Academy was crowded but worth visiting.
+533,smish,Your National Bank pension account frozen by government. Unfreeze: nationalbank-pension.org
+534,promo,Cellular Jail restaurant authentic Bengali cuisine 20% off this month!
+535,normal,I finally finished that 1000-piece puzzle we started last month.
+536,smish,Your Global Islamic Bank Shariah compliance violated. Rectify: globalislamic-shariah.net
+537,promo,"Computer Source laptop clearance sale: Dell, HP, Lenovo massive discounts!"
+538,normal,The monsoon rains are both a blessing and a curse this year.
+539,smish,Your Modhumoti Bank agricultural loan defaulted. Settle: modhumotibank-agri.com
+540,promo,Polar ice cream parlour triple scoop sundae special 199TK only!
+541,normal,I'm volunteering at the local orphanage this weekend. Very rewarding experience.
+542,smish,Your Bank Alfalah foreign currency account compromised. Secure: bankalfalah-forex.org
+543,promo,"Singer showroom home appliances Eid special: Refrigerators, ACs, TVs discounted!"
+544,normal,The classical music concert at the national theater was simply magnificent.
+545,smish,Your Meghna Bank salary account salary credit failed. Fix: meghnabank-salary.net
+546,promo,"Esquire Electronics smartphone festival: iPhone, Samsung, Xiaomi great prices!"
+547,normal,I'm taking a cooking class to learn authentic Bangladeshi recipes.
+548,smish,Your NRB Bank NRI account tax issues detected. Resolve: nrbbank-tax.com
+549,promo,"Hatil furniture showroom bedroom, dining, living room sets 40% off!"
+550,normal,The children's laughter in the park always brings a smile to my face.
+551,smish,Your NRB Commercial Bank trade finance suspended. Restore: nrbcommercial-trade.org
+552,promo,"New Market clothing stores winter collection: Sweaters, shawls, blankets discounts!"
+553,normal,I'm grateful for all the wonderful friendships I've made over the years.
