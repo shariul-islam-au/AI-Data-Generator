@@ -191,9 +191,9 @@ If you use this tool in your research, please cite:
 ```bibtex
 @software{ai_dataset_generator_2025,
   title={AI Dataset Generator: MCP-Based Synthetic SMS Dataset Creation Pipeline},
-  author={[Your Name]},
+  author={Md Shariul Islam},
   year={2025},
-  url={[Repository URL]}
+  url={https://github.com/shariul-islam-au/AI-Data-Generator}
 }
 ```
 
